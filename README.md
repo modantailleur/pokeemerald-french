@@ -4,9 +4,14 @@
 
 This is a propostion of translation for the original pokeemerald repo [https://github.com/pret/pokeemerald]. If you want to use the same installation procedure as in this repo, please rename the directory 'pokeemerald-french' in 'pokeemerald' after git cloning this repo. 
 
+Another repository has tried to translate pokeemerald in french: [https://github.com/pret/pokeemerald]. The problem is that it is 795 commits behind to this date, and that it didn't translate the scripts (only attacks, locations, natures, abilities and pokemon names). Here, instead of translating every script manually, we'll propose an automatic translator based on google translate. As this method can lead to weird translating behaviors, we'll also modify manually the main scripts. The scripts will never be the same as the original one, obviously, but at least they are understandable for french speakers, and close enough to the original one to follow the story.
+
 ## Translation information
 
 The files pokedex_text.h and species_names.h have been created using [https://github.com/BenchBadr/PokeemeraldTranslation] tool. As this tool didn't work exactly as expected (too many Pokémons for the original repo), I've modified a little bit the two files to delete the extra Pokémons.
+
+The scripts within the folder 'maps' have been translated using the python script translate.py, which uses google translate.
+
 
 # Pokémon Emerald
 
