@@ -1,3 +1,13 @@
+# Pokémon Emerald French
+
+## Introduction
+
+This is a propostion of translation for the original pokeemerald repo [https://github.com/pret/pokeemerald]. If you want to use the same installation procedure as in this repo, please rename the directory 'pokeemerald-french' in 'pokeemerald' after git cloning this repo. 
+
+## Translation information
+
+The files pokedex_text.h and species_names.h have been created using [https://github.com/BenchBadr/PokeemeraldTranslation] tool. As this tool didn't work exactly as expected (too many Pokémons for the original repo), I've modified a little bit the two files to delete the extra Pokémons.
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
