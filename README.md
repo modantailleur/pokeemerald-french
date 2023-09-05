@@ -1,3 +1,5 @@
+WORK IN PROGRESS, THIS REPO IS NOT READY NOW
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
