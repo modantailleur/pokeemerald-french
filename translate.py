@@ -1,5 +1,6 @@
 from googletrans import Translator
 import re
+import os
 
 
 def replace_character_names(fr_text):
@@ -81,103 +82,81 @@ def translate_to_french(text):
     translated = translator.translate(text, dest='fr')
     return translated.text
 
-# Read the input file and split it by double quotes
-with open('/home/modantailleur/Documents/pokeemerald-fr-bbs/pokeemerald/scripts.inc', 'r', encoding='utf-8') as file:
-    # lines = file.read().split('.string ')
-    lines = file.read().split('"')
-    # lines = file.read()
+for subdir, dirs, files in os.walk('./'):
+    for file_n in files:
+        str_check = 'scripts.inc'
+        if (file_n.endswith(str_check)) and (not file_n.endswith('eng.inc')):
 
-eng_text = ''
-fr_lines = []
-on_a_text = False
-cur_section = ''
-#pattern = r'\{([^}]+)\}'
+            f = os.path.join(subdir, file_n)
 
-fr_lines.append(lines[0][:-9])
+            base_name_without_extension = os.path.splitext(file_n)[0]
+            eng_file_name = base_name_without_extension + '_eng.inc'
+            eng_file_path = os.path.join(subdir, eng_file_name)
 
-# for idx, line in enumerate(lines):
-#     if line[-8:] == ".string ":
-#         cur_data = lines[idx+1]
-#         cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
-#         eng_text = eng_text+cur_data
-    
-#     if idx+1 < len(lines):
-#         if ":\n\t.string " in lines[idx+1]:
-#             # matches = re.findall(pattern, new_text)
-#             translated_text = translate_to_french(eng_text)
-#             translated_text = replace_text_in_brackets(eng_text, translated_text)
-#             translated_text = add_line_breaks(translated_text)
-#             eng_text = ''
-#             fr_lines.append(translated_text)
-#         else:
-#             fr_lines.append(lines[idx+1])
+            if os.path.exists(eng_file_path):
+                print(f"Skipping {f} as {eng_file_name} already exists.")
+                continue
 
-for idx, line in enumerate(lines):
-    
-    if idx != 0:
-        if (":\n\t.string " in lines[idx-1]) & (eng_text != "") :
-            # matches = re.findall(pattern, new_text)
-            translated_text = translate_to_french(eng_text)
-            translated_text = replace_text_in_brackets(eng_text, translated_text)
-            translated_text = replace_character_names(translated_text)
-            translated_text = add_line_breaks(translated_text)
-            fr_lines = fr_lines + translated_text
-            fr_lines.append(cur_section)
+            with open(f, 'r', encoding='utf-8') as file:
+                lines = file.read().split('"')
+
+            orig_eng_text = "".join(lines)
+
+# # Read the input file and split it by double quotes
+# with open('/home/modantailleur/Documents/pokeemerald-fr-bbs/pokeemerald/scripts.inc', 'r', encoding='utf-8') as file:
+#     # lines = file.read().split('.string ')
+#     lines = file.read().split('"')
+#     # lines = file.read()
+
             eng_text = ''
+            fr_lines = []
+            on_a_text = False
+            cur_section = ''
+            #pattern = r'\{([^}]+)\}'
 
-        if lines[idx-1][-8:] == ".string ":
-            cur_data = lines[idx]
-            cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
-            eng_text = eng_text+cur_data
+            fr_lines.append(lines[0][:-9])
 
-        else:
-            if ".string " in lines[idx]:
-                if lines[idx][1] == '\n':
-                    cur_section = lines[idx][:-9]
+            for idx, line in enumerate(lines):
+                
+                if idx != 0:
+                    if (":\n\t.string " in lines[idx-1]) & (eng_text != "") :
+                        # matches = re.findall(pattern, new_text)
+                        translated_text = translate_to_french(eng_text)
+                        translated_text = replace_text_in_brackets(eng_text, translated_text)
+                        translated_text = replace_character_names(translated_text)
+                        translated_text = add_line_breaks(translated_text)
+                        fr_lines = fr_lines + translated_text
+                        fr_lines.append(cur_section)
+                        eng_text = ''
 
-if eng_text:
-    translated_text = translate_to_french(eng_text)
-    translated_text = replace_text_in_brackets(eng_text, translated_text)
-    translated_text = add_line_breaks(translated_text)
-    fr_lines = fr_lines + translated_text
+                    if lines[idx-1][-8:] == ".string ":
+                        cur_data = lines[idx]
+                        cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
+                        eng_text = eng_text+cur_data
+
+                    else:
+                        if ".string " in lines[idx]:
+                            if lines[idx][1] == '\n':
+                                cur_section = lines[idx][:-9]
+
+            if eng_text:
+                translated_text = translate_to_french(eng_text)
+                translated_text = replace_text_in_brackets(eng_text, translated_text)
+                translated_text = add_line_breaks(translated_text)
+                fr_lines = fr_lines + translated_text
+
+            fr_text = "".join(fr_lines)
 
 
-fr_text = "".join(fr_lines)
+            print('XXXXXXXXXXX')
+            print(f)
+            with open(f, 'w', encoding='utf-8') as file:
+                file.write(fr_text)
 
-# Open the file in write mode and save the text
-with open("pokeemerald/myexample.inc", 'w') as file:
-    file.write(fr_text)
+            with open(eng_file_path, 'w', encoding='utf-8') as file:
+                file.write(orig_eng_text)   
 
+            # # Open the file in write mode and save the text
+            # with open("pokeemerald/myexample.inc", 'w') as file:
+            #     file.write(fr_text)
 
-
-
-
-
-
-
-# print(len(lines))
-# print(lines)
-# # Initialize an empty list to store translated lines
-# translated_lines = []
-
-# # Flag to determine if we are inside brackets
-# inside_brackets = False
-
-# for line in lines:
-#     # Check if the line is inside brackets
-#     if inside_brackets:
-#         translated_line = translate_to_french(line)
-#         translated_lines.append('"' + translated_line + '"')
-#     else:
-#         translated_lines.append(line)
-    
-#     inside_brackets = not inside_brackets
-
-# # Join the translated lines back together
-# result = ''.join(translated_lines)
-
-# # Write the result back to the file
-# with open('script.inc', 'w', encoding='utf-8') as file:
-#     file.write(result)
-
-# print("Translation and replacement completed successfully.")
