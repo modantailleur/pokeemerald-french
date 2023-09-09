@@ -1,3 +1,5 @@
+WORK IN PROGRESS, THIS REPO IS NOT READY NOW
+
 # Pokémon Emerald French
 
 ## Introduction
@@ -11,7 +13,6 @@ Another repository has tried to translate pokeemerald in french: [https://github
 The files pokedex_text.h and species_names.h have been created using [https://github.com/BenchBadr/PokeemeraldTranslation] tool. As this tool didn't work exactly as expected (too many Pokémons for the original repo), I've modified a little bit the two files to delete the extra Pokémons.
 
 The scripts within the folder 'maps' have been translated using the python script translate.py, which uses google translate.
-
 
 # Pokémon Emerald
 
