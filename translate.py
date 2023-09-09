@@ -11,6 +11,7 @@ def replace_character_names(fr_text):
     modified_string = fr_text.replace("BOULEAU", "BIRCH")
     modified_string = modified_string.replace('«', '“')
     modified_string = modified_string.replace('»', '”')
+    modified_string = modified_string.replace('"', '”')
     return(modified_string)
 
 def replace_text_in_brackets(eng_text, fr_text, pattern=r'\{([^}]+)\}', regex = r'(?<=\{).*?(?=\})'):
