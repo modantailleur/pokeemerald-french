@@ -169,19 +169,20 @@ def replace_translation_mistakes(fr_text):
     because I can't even use capital letters as I want PROFESSOR to be traduced for example. For now, I do it manually.
     """
     new_fr_text = fr_text
-    # Replace character names
-    for eng_name, fr_name in characters_dict.items():
-        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        new_fr_text = new_fr_text.replace(eng_name, fr_name)
-    for eng_name, fr_name in characters_translation_dict.items():
-        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        new_fr_text = new_fr_text.replace(eng_name, fr_name)
 
     # Replace place names
     for eng_name, fr_name in places_dict.items():
         # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
         new_fr_text = new_fr_text.replace(eng_name, fr_name)
     for eng_name, fr_name in places_translation_dict.items():
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
+        
+    # Replace character names
+    for eng_name, fr_name in characters_dict.items():
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
+    for eng_name, fr_name in characters_translation_dict.items():
         # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
         new_fr_text = new_fr_text.replace(eng_name, fr_name)
 
