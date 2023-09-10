@@ -70,7 +70,8 @@ characters_dict = {
     "PHOEBE": "SPECTRA",
     "TUCKER": "TAKIM",
     "WALLY": "TIMMY",
-    "WATTSON": "VOLTÈRE"
+    "WATTSON": "VOLTÈRE",
+    "STERN": "POUPE"
 }
 
 places_dict = {
@@ -147,11 +148,13 @@ uni_pokevocab_translation_dict = {unidecode(translate_to_french(eng_name)): fr_n
 pokevocab_translation_dict.update(uni_pokevocab_translation_dict)
 
 abreviations_dict = {
-    'PROF.': 'PROFESSOR'
+    'PROF.': 'PROFESSOR',
+    'CAPT.': 'CAPTAIN',
 }
 
 reverse_abreviations_dict = {
-    'PROFESSEUR': 'PROF.'
+    'PROFESSEUR': 'PROF.',
+    'CAPITAINE': 'CAPT.'
 }
 
 def replace_abrevations(eng_text):
