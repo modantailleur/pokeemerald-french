@@ -321,14 +321,15 @@ LittlerootTown_MaysHouse_1F_Movement_MayGoUpstairs2:
 	step_end
 
 RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
-	.string "Oh salut. Et tu es? … … … … … … … …\n"
-	.string "… … … … … … … … … Oh, tu es\p"
-	.string "{PLAYER}{KUN}, notre nouveau voisin\n"
-	.string "d'à côté ! Salut! Nous avons un\p"
-	.string "{STR_VAR_1} à peu près du même âge que\n"
-	.string "vous. Notre {STR_VAR_1} était ravi de se\p"
-	.string "faire un nouvel ami. Notre {STR_VAR_1}\n"
-	.string "est à l'étage, je pense.$"
+	.string "Oh bonjour. Qui es-tu? \p"
+	.string "… … … … … … … … …\n"
+	.string "… … … … … … … … …\p"
+	.string "Oh, tu es {PLAYER}{KUN}.\n"
+	.string "Nos maisons sont voisines !\p"
+	.string "Notre {STR_VAR_1} a à peu près le même âge\n"
+	.string "que toi.\p"
+	.string "Notre {STR_VAR_1} avait hâte de te connaître.\p"
+	.string "Tu devrais aller voir à l'étage.$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:
 	.string "Tel enfant, tel père. Mon mari est\n"
@@ -339,9 +340,10 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 	.string "herbeux.$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
-	.string "Ce {RIVAL} ! Je suppose que notre\n"
-	.string "enfant est trop occupé avec POKéMON\p"
-	.string "pour remarquer que vous êtes venu\n"
+	.string "{RIVAL}!\p"
+	.string "Je suppose que notre enfant\n"
+	.string "est trop occupé avec ses POKéMON\p"
+	.string "pour remarquer que tu es venu\n"
 	.string "lui rendre visite, {PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
@@ -361,25 +363,27 @@ RivalsHouse_1F_Text_ShouldGoHomeEverySoOften:
 	.string "{PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_MayWhoAreYou:
-	.string "Hein? Qui… Qui es-tu ? … … … … … …\n"
-	.string "… … … … … … … … … Oh, tu es\p"
-	.string "{PLAYER}{KUN}. Donc votre\n"
-	.string "déménagement a eu lieu aujourd'hui.\p"
-	.string "Euh… je suis FLORA. Ravie de faire\n"
-	.string "ta connaissance! Je… j'ai ce rêve\p"
-	.string "de devenir ami avec POKéMON partout\n"
-	.string "dans le monde. Je… J'ai entendu\p"
-	.string "parler de toi, {PLAYER}{KUN}, par\n"
-	.string "mon père, le PROF. SEKO. J'espérais\p"
-	.string "que tu serais gentil, {PLAYER}{KUN},\n"
-	.string "et que nous pourrions être amis.\p"
+	.string "Hein?\n"
+	.string "Qui… Qui es-tu?\p"
+	.string "… … … … … … … … …\n"
+	.string "… … … … … … … … …\p"
+	.string "Oh, tu es {PLAYER}{KUN}.\n"
+	.string "Donc, tu as emménagé aujourd'hui.\p"
+	.string "Heu… je suis FLORA. Ravie de faire\n"
+	.string "ta connaissance! Je… j'ai rêvé\p"
+	.string "que les POKéMON du monde enter\n"
+	.string "devenaient mes amis.\p"
+	.string "J… J'ai entendu parler de toi, {PLAYER}{KUN},\n"
+	.string "par mon père, le PROF. SEKO.\p"
+	.string "J'espérais que tu serais sympa,\n"
+	.string "{PLAYER}{KUN}, et qu'on pourrait devenir amis.\p"
 	.string "Oh, c'est idiot, n'est-ce pas ? Je…\n"
 	.string "je viens de te rencontrer,\p"
 	.string "{PLAYER}{KUN}. Ehhéhé… Oh non ! J'ai\n"
 	.string "oublié! J'étais censé aller aider\p"
 	.string "papa à attraper des POKéMON\n"
-	.string "sauvages ! {PLAYER}{KUN}, je te\p"
-	.string "retrouverai plus tard !$"
+	.string "sauvages ! {PLAYER}{KUN}, on se\p"
+	.string "retrouve plus tard, OK?$"
 
 RivalsHouse_1F_Text_BrendanWhoAreYou:
 	.string "Hé! Toi… Qui es-tu ? Oh, vous êtes\n"
