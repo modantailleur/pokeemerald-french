@@ -41,20 +41,21 @@ VerdanturfTown_Mart_EventScript_Lass::
 	end
 
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
-	.string "For any POKéMON match, X SPECIAL\n"
-	.string "is crucial.\p"
-	.string "It jacks up the power of some moves\n"
-	.string "even though it's only for one battle.$"
+	.string "Pour tout match POKéMON, X SPECIAL\n"
+	.string "est crucial. Cela augmente la\p"
+	.string "puissance de certains mouvements\n"
+	.string "même si ce n'est que pour une seule\p"
+	.string "bataille.$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
-	.string "They don't seem to sell any winning\n"
-	.string "strategy guides for the BATTLE TENT…\p"
-	.string "It seems one must rely on one's\n"
-	.string "own wits after all…$"
+	.string "Ils ne semblent pas vendre de\n"
+	.string "guides de stratégie gagnante pour\p"
+	.string "la TENTE DE COMBAT… Il semble qu'il\n"
+	.string "faille compter sur son propre\p"
+	.string "esprit après tout…$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
-	.string "The NEST BALL works better on\n"
-	.string "weakened POKéMON.\p"
-	.string "VERDANTURF is the only place you can\n"
-	.string "buy it.$"
-
+	.string "La NEST BALL fonctionne mieux sur\n"
+	.string "les POKéMON affaiblis. VERGUIDOTURF\p"
+	.string "est le seul endroit où vous pouvez\n"
+	.string "l'acheter.$"

@@ -10,19 +10,17 @@ PetalburgCity_House1_EventScript_Woman::
 	end
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
-	.string "Traveling is wonderful!\p"
-	.string "When I was young, I roamed the seas\n"
-	.string "and the mountains!$"
+	.string "Voyager, c'est merveilleux ! Quand\n"
+	.string "j'étais jeune, je parcourais les\p"
+	.string "mers et les montagnes !$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
-	.string "Crawl through some damp grass…\n"
-	.string "Climb rocky, rugged mountains…\p"
-	.string "Cross the raging seas…\n"
-	.string "Wander about in dark caves…\p"
-	.string "And, sometimes, even get a little\n"
-	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
-
+	.string "Soupir… J'aimerais pouvoir partir à\n"
+	.string "l'aventure avec des POKéMON… Ramper\p"
+	.string "dans l'herbe humide… Escalader des\n"
+	.string "montagnes rocheuses et escarpées…\p"
+	.string "Traverser les mers déchaînées… Se\n"
+	.string "promener dans des grottes sombres…\p"
+	.string "Et, parfois, avoir même un peu le\n"
+	.string "mal du pays… Ça doit être fabuleux\p"
+	.string "de voyager!$"

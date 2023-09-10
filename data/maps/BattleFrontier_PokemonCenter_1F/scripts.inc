@@ -40,22 +40,23 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
-	.string "There was someone here using a \n"
-	.string "POKéMON I've never seen before.\p"
-	.string "I never learned about it at\n"
-	.string "TRAINER'S SCHOOL at least.\p"
-	.string "I wonder where you can catch POKéMON\n"
-	.string "like that.$"
+	.string "Il y avait quelqu'un ici qui\n"
+	.string "utilisait un POKéMON que je n'avais\p"
+	.string "jamais vu auparavant. Je n'en ai\n"
+	.string "jamais entendu parler à DRESSEUR'S\p"
+	.string "SCHOOL, du moins. Je me demande où\n"
+	.string "on peut attraper des POKéMON comme\p"
+	.string "ça.$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-	.string "Okay! Next stop, the BATTLE ARENA!\n"
-	.string "I'd better get the right POKéMON from\l"
-	.string "the PC Storage System.$"
+	.string "D'accord! Prochain arrêt, la BATTLE\n"
+	.string "ARENA ! Je ferais mieux d'obtenir\p"
+	.string "le bon POKéMON sur le système de\n"
+	.string "stockage PC.$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
-	.string "Giggle… I'm going to go through every\n"
-	.string "challenge with just this baby!$"
+	.string "Riez… Je vais relever tous les\n"
+	.string "défis avec juste ce bébé !$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
-	.string "SKITTY: Mya myaaah!$"
-
+	.string "SKITTY : Mya myaaah !$"

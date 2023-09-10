@@ -107,54 +107,55 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.string "Si vous voulez connaître le secret\n"
+	.string "de notre HIDEOUT, vous devez me\p"
+	.string "battre !$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
-	.string "I can't win at all…$"
+	.string "Je ne peux pas gagner du tout…$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Our HIDEOUT's secret?\p"
-	.string "Well, let's just say…\n"
-	.string "There's a submarine at the far end!\p"
-	.string "But, by now…\n"
-	.string "Kekekeke…$"
+	.string "Le secret de notre HIDEOUT ? Eh\n"
+	.string "bien, disons simplement… Il y a un\p"
+	.string "sous-marin au fond ! Mais, à\n"
+	.string "présent… Kekekeke…$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
-	.string "meddler!$"
+	.string "Alimentation en carburant chargée\n"
+	.string "A-OK ! Des collations en croisière\p"
+	.string "chargées A-OK ! Il ne reste plus\n"
+	.string "qu'à mettre KO un intrus embêtant\p"
+	.string "!$"
 
 AquaHideout_B1F_Text_Grunt3Defeat:
-	.string "I took a serious licking!$"
+	.string "J'ai pris une sérieuse léchage !$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
-	.string "Humph!\n"
-	.string "This was supposed to happen!\p"
-	.string "My mission was to just hold you up!$"
+	.string "Hum ! C'était censé arriver ! Ma\n"
+	.string "mission était simplement de vous\p"
+	.string "retenir !$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.string "Bâillement… Garder la CACCHE\n"
+	.string "m'ennuie. Je t'emmène.$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.string "Bâillement… Oh, j'ai perdu…$"
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.string "Si vous vous précipitez trop,\n"
+	.string "d'autres membres de la TEAM AQUA\p"
+	.string "pourraient vous attraper.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Hey!\n"
-	.string "You there!\p"
-	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.string "Hé! Toi là! Selon vous, lequel est\n"
+	.string "le plus cool ? L'uniforme de TEAM\p"
+	.string "AQUA ou celui de TEAM MAGMA ?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
-	.string "I lost in a cool way…$"
+	.string "J'ai perdu d'une manière cool…$"
 
 AquaHideout_B1F_Text_Grunt7PostBattle:
-	.string "If you have a cool uniform, you look\n"
-	.string "good even in a loss, don't you think?$"
+	.string "Si vous avez un uniforme cool, vous\n"
+	.string "avez fière allure même en cas de\p"
+	.string "défaite, vous ne trouvez pas ?$"

@@ -525,379 +525,410 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Where the courage of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE PYRAMID!\p"
-	.string "I am your guide to\n"
-	.string "the Battle Quest.$"
+	.string "Où le courage des FORMATTHIEUEURS\n"
+	.string "est mis à l’épreuve ! Bienvenue\p"
+	.string "dans la PYRAMIDE DE BATAILLE ! Je\n"
+	.string "suis votre guide pour la Battle\p"
+	.string "Quest.$"
 
 BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
-	.string "Have you the courage to embark on\n"
-	.string "the Battle Quest challenge?$"
+	.string "Avez-vous le courage de vous lancer\n"
+	.string "dans le défi Battle Quest ?$"
 
 BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
-	.string "We await your challenge in the future!$"
+	.string "Nous attendons votre défi à\n"
+	.string "l'avenir !$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
-	.string "The Battle Quest is a battling\n"
-	.string "event in which you must explore\l"
-	.string "the PYRAMID and try to reach the top.\p"
-	.string "In the PYRAMID are seven floors of\n"
-	.string "mazes, all of them filled with not only\l"
-	.string "skilled TRAINERS but also wild POKéMON.\p"
-	.string "You must enter with three POKéMON,\n"
-	.string "none of them holding an item.\p"
-	.string "On your ascent, you will be provided\n"
-	.string "with a BATTLE BAG for items.\p"
-	.string "If you fail in your challenge, any item\n"
-	.string "placed in the BATTLE BAG disappears.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, you must select “REST”\l"
-	.string "and save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "La Battle Quest est un événement de\n"
+	.string "combat dans lequel vous devez\p"
+	.string "explorer la PYRAMIDE et tenter\n"
+	.string "d'atteindre le sommet. Dans la\p"
+	.string "PYRAMIDE se trouvent sept étages de\n"
+	.string "labyrinthes, tous remplis non\p"
+	.string "seulement d'DRESSEURS qualifiés\n"
+	.string "mais aussi de POKéMON sauvages.\p"
+	.string "Vous devez entrer avec trois\n"
+	.string "POKéMON, aucun d'entre eux ne\p"
+	.string "détenant d'objet. Lors de votre\n"
+	.string "ascension, vous recevrez un SAC DE\p"
+	.string "COMBAT pour les objets. Si vous\n"
+	.string "échouez à votre défi, tout objet\p"
+	.string "placé dans le SAC DE COMBAT\n"
+	.string "disparaît. Si vous souhaitez\p"
+	.string "interrompre votre défi, vous devez\n"
+	.string "sélectionner “ REST ” et\p"
+	.string "sauvegarder la partie. Si vous ne\n"
+	.string "sauvegardez pas avant\p"
+	.string "d'interrompre, vous serez\n"
+	.string "disqualifié.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
-	.string "The PYRAMID offers two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you enter?$"
+	.string "La PYRAMIDE propose deux cours,\n"
+	.string "niveau 50 et niveau ouvert. Dans\p"
+	.string "lequel entrerez-vous ?$"
 
 BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
-	.string "Very good. Now, please select the three\n"
-	.string "POKéMON you wish to accompany you.$"
+	.string "Très bien. Maintenant, veuillez\n"
+	.string "sélectionner les trois POKéMON que\p"
+	.string "vous souhaitez vous accompagner.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you are ready, please have\n"
-	.string "a word with me.$"
+	.string "Un léger problème, aventurier !\n"
+	.string "Vous semblez ne pas avoir les trois\p"
+	.string "POKéMON qualifiés pour le défi.\n"
+	.string "N'oubliez pas également de prendre\p"
+	.string "tous les objets de votre POKéMON.\n"
+	.string "EGGS{STR_VAR_1} n'est pas éligible.\p"
+	.string "Lorsque vous serez prêt, parlez-moi\n"
+	.string "s'il vous plaît.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "The three POKéMON must be different\n"
-	.string "and each no higher than Level 50.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you are ready, please have\n"
-	.string "a word with me.$"
+	.string "Un léger problème, aventurier !\n"
+	.string "Vous semblez ne pas avoir les trois\p"
+	.string "POKéMON qualifiés pour le défi. Les\n"
+	.string "trois POKéMON doivent être\p"
+	.string "différents et chacun ne doit pas\n"
+	.string "dépasser le niveau 50. N'oubliez\p"
+	.string "pas également de prendre tous les\n"
+	.string "objets de votre POKéMON. EGGS{STR_VAR_1}\p"
+	.string "n'est pas éligible. Lorsque vous\n"
+	.string "serez prêt, parlez-moi s'il vous\p"
+	.string "plaît.$"
 
 BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you enter the BATTLE PYRAMID,\n"
-	.string "the game must be saved. Is that okay?$"
+	.string "Avant d'entrer dans la BATTLE\n"
+	.string "PYRAMID, le jeu doit être\p"
+	.string "sauvegardé. Est-ce que ça va ?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
-	.string "Very good. I will now show you into\n"
-	.string "the BATTLE PYRAMID.$"
+	.string "Très bien. Je vais maintenant vous\n"
+	.string "montrer la PYRAMIDE DE BATAILLE.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "We will hold your BAG for safekeeping,\n"
-	.string "{PLAYER}, while you are exploring.$"
+	.string "Nous conserverons votre SAC en lieu\n"
+	.string "sûr, {PLAYER}, pendant que vous\p"
+	.string "explorez.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
-	.string "In exchange, please take this BATTLE\n"
-	.string "BAG, the one you used previously.$"
+	.string "En échange, veuillez prendre ce SAC\n"
+	.string "DE COMBAT, celui que vous avez\p"
+	.string "utilisé précédemment.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "In exchange, please take this\n"
-	.string "BATTLE BAG.$"
+	.string "En échange, veuillez prendre ce SAC\n"
+	.string "DE COMBAT.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} exchanged the BAG for\n"
-	.string "the BATTLE BAG.$"
+	.string "{PLAYER} a échangé le SAC contre le\n"
+	.string "SAC DE COMBAT.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
-	.string "When you step on this floor panel,\n"
-	.string "you will be transported to a higher\l"
-	.string "floor in the PYRAMID.\p"
-	.string "I hope for your sake that your\n"
-	.string "quest goes safely!$"
+	.string "Lorsque vous montez sur ce panneau\n"
+	.string "de plancher, vous serez transporté\p"
+	.string "à un étage supérieur de la\n"
+	.string "PYRAMIDE. J'espère pour vous que\p"
+	.string "votre quête se déroulera sans\n"
+	.string "encombre !$"
 
 BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
-	.string "A major problem, explorer!\p"
-	.string "You did not save before ending\n"
-	.string "your challenge the last time.\p"
-	.string "Consequently, your challenge has\n"
-	.string "been disqualified, I'm sorry to say.\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Un problème majeur, explorateur !\n"
+	.string "Vous n'avez pas sauvegardé avant de\p"
+	.string "terminer votre défi la dernière\n"
+	.string "fois. Par conséquent, votre défi a\p"
+	.string "été disqualifié, je suis désolé de\n"
+	.string "le dire. Voici le SAC que nous vous\p"
+	.string "réservons. {PLAYER} a récupéré le\n"
+	.string "SAC.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
-	.string "Excellent to see you back!\p"
-	.string "You've conquered the PYRAMID!\n"
-	.string "How splendid!$"
+	.string "Ravie de vous revoir ! Vous avez\n"
+	.string "conquis la PYRAMIDE ! Comme c'est\p"
+	.string "magnifique!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
-	.string "Ah, a slight problem.\p"
-	.string "At least one POKéMON is holding\n"
-	.string "an item.\p"
-	.string "I'm sorry to say, items obtained in\n"
-	.string "the PYRAMID cannot be taken away.$"
+	.string "Ah, un petit problème. Au moins un\n"
+	.string "POKéMON tient un objet. Je suis\p"
+	.string "désolé de le dire, mais les objets\n"
+	.string "obtenus dans la PYRAMIDE ne peuvent\p"
+	.string "pas être emportés.$"
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
-	.string "All items held by your POKéMON will be\n"
-	.string "moved to your BATTLE BAG, {PLAYER}.$"
+	.string "Tous les objets détenus par votre\n"
+	.string "POKéMON seront déplacés vers votre\p"
+	.string "SAC DE COMBAT, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "The BATTLE BAG cannot hold all your\n"
-	.string "items, I'm sorry to say.\p"
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "Le BATTLE BAG ne peut pas contenir\n"
+	.string "tous vos objets, je suis désolé de\p"
+	.string "le dire. Veuillez choisir les\n"
+	.string "objets que vous garderez dans le\p"
+	.string "SAC DE COMBAT et avec votre\n"
+	.string "POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
-	.string "At least one POKéMON is still\n"
-	.string "holding an item.$"
+	.string "Au moins un POKéMON détient\n"
+	.string "toujours un objet.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "Veuillez choisir les objets que\n"
+	.string "vous garderez dans le SAC DE COMBAT\p"
+	.string "et avec votre POKéMON.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} returned everything that\n"
-	.string "the POKéMON held.$"
+	.string "{PLAYER} a rendu tout ce que\n"
+	.string "contenait le POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
-	.string "The BATTLE BAG you used will be kept\n"
-	.string "in readiness for your next challenge.\p"
-	.string "{PLAYER} turned the BATTLE BAG over\n"
-	.string "for the BAG's return.$"
+	.string "Le BATTLE BAG que vous avez utilisé\n"
+	.string "sera conservé prêt pour votre\p"
+	.string "prochain défi. {PLAYER} a retourné le\n"
+	.string "SAC DE COMBAT pour le retour du\p"
+	.string "SAC.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
-	.string "I must record your results.\n"
-	.string "Please wait.$"
+	.string "Je dois enregistrer vos résultats.\n"
+	.string "Veuillez patienter.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
-	.string "As a memento for conquering\n"
-	.string "the BATTLE PYRAMID, please take this.$"
+	.string "En guise de souvenir de la conquête\n"
+	.string "de la PYRAMIDE DE BATAILLE,\p"
+	.string "veuillez prendre ceci.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER} a reçu le prix {STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
-	.string "…Ah…\n"
-	.string "Your BAG appears to be filled.\p"
-	.string "Please return after you've organized\n"
-	.string "your BAG's contents.$"
+	.string "…Ah… Votre SAC semble être rempli.\n"
+	.string "Veuillez revenir après avoir\p"
+	.string "organisé le contenu de votre SAC.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
-	.string "How disappointing for you…\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Quelle déception pour vous… Voici\n"
+	.string "le SAC que nous vous réservions.\p"
+	.string "{PLAYER} a récupéré le SAC.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
-	.string "We look forward to your\n"
-	.string "next challenge!$"
+	.string "Nous attendons avec impatience\n"
+	.string "votre prochain défi !$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
-	.string "We have been looking forward to\n"
-	.string "your arrival!\p"
-	.string "Here is your prize for conquering\n"
-	.string "the PYRAMID.$"
+	.string "Nous attendions votre arrivée avec\n"
+	.string "impatience ! Voici votre prix pour\p"
+	.string "avoir conquis la PYRAMIDE.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
-	.string "Welcome…\p"
-	.string "I shall be pleased to tell you what\n"
-	.string "misfortunes await in the PYRAMID…$"
+	.string "Bienvenue… Il me fera plaisir de\n"
+	.string "vous dire quels malheurs vous\p"
+	.string "attendent dans la PYRAMIDE…$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah:
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "… … … … … …\n"
+	.string "… … … … … … … … … … … … … … … … … …\n"
 	.string "Aah!$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
-	.string "I see a shower of sparks…\p"
-	.string "…And in it, I see your POKéMON\n"
-	.string "struggling with paralysis…$"
+	.string "Je vois une pluie d'étincelles… …Et\n"
+	.string "dedans, je vois ton POKéMON aux\p"
+	.string "prises avec la paralysie…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison:
-	.string "I see poison…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from the effects of poison…$"
+	.string "Je vois du poison… …Et je vois\n"
+	.string "votre POKéMON souffrir des effets\p"
+	.string "du poison…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn:
-	.string "I see bright red flames…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from burns…$"
+	.string "Je vois des flammes rouge vif… …Et,\n"
+	.string "je vois ton POKéMON souffrant de\p"
+	.string "brûlures…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
-	.string "I sense the tremendous pressure of\n"
-	.string "unrequited anger…\p"
-	.string "It is a curse…\p"
-	.string "…And, I see your POKéMON drained of\n"
-	.string "Power Points and having no recourse\l"
-	.string "but to use STRUGGLE…$"
+	.string "Je sens l'énorme pression d'une\n"
+	.string "colère non partagée… C'est une\p"
+	.string "malédiction… …Et je vois votre\n"
+	.string "POKéMON vidé de ses points de\p"
+	.string "pouvoir et n'ayant d'autre recours\n"
+	.string "que d'utiliser LA LUTTE…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
-	.string "I see POKéMON loftily airborne…\p"
-	.string "…And, I see your POKéMON frustrated\n"
-	.string "by powerless GROUND-type moves…$"
+	.string "Je vois POKéMON en l'air… …Et je\n"
+	.string "vois votre POKéMON frustré par les\p"
+	.string "mouvements impuissants de type\n"
+	.string "SOL…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
-	.string "I sense terrific energy rising from\n"
-	.string "the ground below…\p"
-	.string "…And, I see your POKéMON unable to\n"
-	.string "escape the power's clutches…$"
+	.string "Je sens une énergie formidable\n"
+	.string "monter du sol en contrebas… …Et je\p"
+	.string "vois votre POKéMON incapable\n"
+	.string "d'échapper aux griffes du pouvoir…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce:
-	.string "I see ICE-type POKéMON…\p"
-	.string "…And, I see your POKéMON fighting\n"
-	.string "the freezing effects of ice…$"
+	.string "Je vois un POKéMON de type ICE… …Et\n"
+	.string "je vois votre POKéMON combattant\p"
+	.string "les effets glacials de la glace…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
-	.string "I see a flurry of moves that imperil\n"
-	.string "the user…\p"
-	.string "…And, I see your POKéMON falling\n"
-	.string "to them…$"
+	.string "Je vois une série de mouvements qui\n"
+	.string "mettent l'utilisateur en péril… …Et\p"
+	.string "je vois votre POKéMON lui tomber\n"
+	.string "dessus…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
-	.string "I see PSYCHIC-type POKéMON…\p"
-	.string "…And, I see your POKéMON in torment\n"
-	.string "from PSYCHIC moves…$"
+	.string "Je vois des POKéMON de type\n"
+	.string "PSYCHIQUE… …Et, je vois votre\p"
+	.string "POKéMON tourmenté par les\n"
+	.string "mouvements PSYCHIQUES…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock:
-	.string "I see ROCK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from ROCK moves…$"
+	.string "Je vois des POKéMON de type ROCK…\n"
+	.string "…Et, je vois ton POKéMON souffrant\p"
+	.string "de mouvements ROCK…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
-	.string "I see FIGHTING-type POKéMON…\p"
-	.string "…And, I see your POKéMON pummeled\n"
-	.string "by FIGHTING moves…$"
+	.string "Je vois un POKéMON de type COMBAT…\n"
+	.string "…Et je vois votre POKéMON frappé\p"
+	.string "par des mouvements de COMBAT…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
-	.string "RAIN DANCE… SUNNY DAY…\n"
-	.string "SANDSTORM… HAIL…\p"
-	.string "I see POKéMON that become stronger\n"
-	.string "with the weather…\p"
-	.string "…And, I see your POKéMON confounded\n"
-	.string "by different types of moves…$"
+	.string "GUIDOSE DE LA PLUIE… JOURNÉE\n"
+	.string "ENSOLEILLÉE… TEMPÊTE DE SABLE…\p"
+	.string "GRÊLE… Je vois des POKéMON qui\n"
+	.string "deviennent plus forts avec la\p"
+	.string "météo… …Et, je vois votre POKéMON\n"
+	.string "confus par différents types de\p"
+	.string "mouvements…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug:
-	.string "I see BUG-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from different kinds of attacks…$"
+	.string "Je vois des POKéMON de type BUG…\n"
+	.string "…Et, je vois votre POKéMON\p"
+	.string "souffrant de différents types\n"
+	.string "d'attaques…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark:
-	.string "I see DARK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from DARK-type moves…$"
+	.string "Je vois un POKéMON de type\n"
+	.string "TÉNÈBRES… …Et, je vois votre\p"
+	.string "POKéMON souffrant de mouvements de\n"
+	.string "type TÉNÈBRES…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater:
-	.string "I see WATER-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from WATER-type moves…$"
+	.string "Je vois un POKéMON de type EAU…\n"
+	.string "…Et, je vois votre POKéMON\p"
+	.string "souffrant de mouvements de type\n"
+	.string "EAU…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost:
-	.string "I see GHOST-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from GHOST-type moves…$"
+	.string "Je vois un POKéMON de type FANTÔME…\n"
+	.string "…Et, je vois votre POKéMON\p"
+	.string "souffrant de mouvements de type\n"
+	.string "FANTÔME…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel:
-	.string "I see STEEL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Je vois un POKéMON de type ACIER…\n"
+	.string "…Et je vois votre POKéMON souffrir\p"
+	.string "de mouvements extrêmement\n"
+	.string "puissants…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
-	.string "I see flying POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Je vois un POKéMON volant… …Et je\n"
+	.string "vois votre POKéMON souffrir de\p"
+	.string "mouvements extrêmement puissants…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
-	.string "I see those that have evolved from\n"
-	.string "the power of stones…\p"
-	.string "I also sense fire, water,\n"
-	.string "and electricity…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from those three powers…$"
+	.string "Je vois ceux qui ont évolué grâce\n"
+	.string "au pouvoir des pierres… Je sens\p"
+	.string "aussi le feu, l'eau et\n"
+	.string "l'électricité… …Et je vois votre\p"
+	.string "POKéMON souffrant de ces trois\n"
+	.string "pouvoirs…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal:
-	.string "I see NORMAL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Je vois un POKéMON de type NORMAL…\n"
+	.string "…Et je vois votre POKéMON souffrir\p"
+	.string "de mouvements extrêmement\n"
+	.string "puissants…$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
-	.string "Whether you believe my fortunes\n"
-	.string "or not, the choice is yours…\p"
-	.string "The future can be changed anytime…\n"
-	.string "I wish you safe passage…$"
+	.string "Que vous croyiez ou non à ma\n"
+	.string "fortune, le choix vous appartient…\p"
+	.string "L'avenir peut être changé à tout\n"
+	.string "moment… Je vous souhaite un bon\p"
+	.string "passage…$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
-	.string "Did you know?\p"
-	.string "If you run fast, TRAINERS may notice\n"
-	.string "and come after you for a battle.\p"
-	.string "So, if you want to avoid TRAINERS,\n"
-	.string "don't catch their eyes, but sneak\l"
-	.string "cautiously and quietly past them.$"
+	.string "Saviez-vous? Si vous courez vite,\n"
+	.string "les DRESSEURS peuvent le remarquer\p"
+	.string "et vous poursuivre pour une\n"
+	.string "bataille. Donc, si vous voulez\p"
+	.string "éviter les FORMATTHIEUEURS,\n"
+	.string "n'attirez pas leur attention, mais\p"
+	.string "faufilez-vous doucement et\n"
+	.string "discrètement devant eux.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
-	.string "Awaaaaaaarrrrgh!\p"
-	.string "I had a whole lot of items, but I lost\n"
-	.string "them all when I lost!\p"
-	.string "Awaaaaaaarrrrgh!$"
+	.string "Awaaaaaarrrrgh ! J'avais beaucoup\n"
+	.string "d'objets, mais je les ai tous\p"
+	.string "perdus en perdant !\n"
+	.string "Awaaaaaarrrrgh!$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
-	.string "Welcome back!\n"
-	.string "You've done the unthinkable!\p"
-	.string "You've defeated the PYRAMID KING\n"
-	.string "and conquered the BATTLE PYRAMID!$"
+	.string "Content de te revoir! Vous avez\n"
+	.string "fait l'impensable ! Vous avez\p"
+	.string "vaincu le PYRAMID KING et conquis\n"
+	.string "la BATTLE PYRAMID !$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
-	.string "Young explorer!\n"
-	.string "In commendation of your courage,\l"
-	.string "we give you these Battle Point(s)!$"
+	.string "Jeune explorateur ! En guise de\n"
+	.string "reconnaissance pour votre courage,\p"
+	.string "nous vous offrons ces points de\n"
+	.string "combat !$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
-	.string "The Battle Quest rules are listed.$"
+	.string "Les règles de Battle Quest sont\n"
+	.string "répertoriées.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Quelle rubrique souhaitez-vous lire\n"
+	.string "?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
-	.string "When the PYRAMID is conquered,\n"
-	.string "the wild POKéMON that appear in it\l"
-	.string "are replaced by different kinds.\p"
-	.string "Explore, observe, and learn what kinds\n"
-	.string "of wild POKéMON you may encounter.$"
+	.string "Lorsque la PYRAMIDE est conquise,\n"
+	.string "les POKéMON sauvages qui y\p"
+	.string "apparaissent sont remplacés par\n"
+	.string "différentes sortes. Explorez,\p"
+	.string "observez et découvrez quels types\n"
+	.string "de POKéMON sauvages vous pourriez\p"
+	.string "rencontrer.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "TRAINERS are lying in wait for you\n"
-	.string "inside the PYRAMID.\p"
-	.string "On each floor, there are up to\n"
-	.string "eight TRAINERS.\p"
-	.string "When you defeat a TRAINER, you will\n"
-	.string "get a helpful hint for your adventure.$"
+	.string "DES FORMATTHIEUEURS vous attendent\n"
+	.string "à l’intérieur de la PYRAMIDE. À\p"
+	.string "chaque étage, il y a jusqu'à huit\n"
+	.string "FORMATTHIEUEURS. Lorsque vous\p"
+	.string "battez un DRESSEUR, vous recevrez\n"
+	.string "un indice utile pour votre\p"
+	.string "aventure.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
-	.string "The mazes in the PYRAMID rearrange\n"
-	.string "themselves every time you enter it.\p"
-	.string "The mazes are poorly lit.\n"
-	.string "You must advance with caution.\p"
-	.string "The light grows brighter whenever you\n"
-	.string "defeat a wild POKéMON or a TRAINER.$"
+	.string "Les labyrinthes de la PYRAMIDE se\n"
+	.string "réorganisent à chaque fois que vous\p"
+	.string "y entrez. Les labyrinthes sont mal\n"
+	.string "éclairés. Il faut avancer avec\p"
+	.string "prudence. La lumière devient plus\n"
+	.string "brillante chaque fois que vous\p"
+	.string "battez un POKéMON sauvage ou un\n"
+	.string "DRESSEUR.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "The BATTLE BAG serves as your BAG\n"
-	.string "while in the PYRAMID.\p"
-	.string "There are two separate BATTLE BAGS--\n"
-	.string "one each for the Level 50 and\l"
-	.string "Open Level adventures.\p"
-	.string "They each can hold up to 99 pieces\n"
-	.string "of ten kinds of items.\p"
-	.string "The contents of the BATTLE BAG are\n"
-	.string "lost if you fail in your quest.$"
-
+	.string "Le SAC DE COMBAT vous sert de SAC\n"
+	.string "lorsque vous êtes dans la PYRAMIDE.\p"
+	.string "Il existe deux SACS DE COMBAT\n"
+	.string "distincts : un pour les aventures\p"
+	.string "de niveau 50 et de niveau ouvert.\n"
+	.string "Ils peuvent chacun contenir jusqu'à\p"
+	.string "99 pièces de dix types d'objets. Le\n"
+	.string "contenu du SAC DE COMBAT est perdu\p"
+	.string "si vous échouez dans votre quête.$"

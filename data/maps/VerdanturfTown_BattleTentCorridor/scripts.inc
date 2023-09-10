@@ -45,32 +45,33 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which CONTEST are you entering?\n"
-	.string "Want a piece of advice?\p"
-	.string "In any CONTEST, for example, a CUTE\n"
-	.string "CONTEST, I don't think they judge you\l"
-	.string "only on cuteness in the first round.\p"
-	.string "You need to work out ways for raising\n"
-	.string "POKéMON better.$"
+	.string "À quel CONCOURS participez-vous ?\n"
+	.string "Envie d'un conseil ? Dans n'importe\p"
+	.string "quel CONCOURS, par exemple un\n"
+	.string "CONCOURS MIGNON, je ne pense pas\p"
+	.string "qu'ils vous jugent uniquement sur\n"
+	.string "votre gentillesse au premier tour.\p"
+	.string "Vous devez trouver des moyens de\n"
+	.string "mieux élever POKéMON.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my POKéMON to be cute.\p"
-	.string "I found out you can put POKéMON in\n"
-	.string "a CONTEST for cuteness!\p"
-	.string "I'm so glad I raised my POKéMON with\n"
-	.string "loving care…$"
+	.string "J'ai élevé mon POKéMON pour qu'il\n"
+	.string "soit mignon. J'ai découvert que\p"
+	.string "vous pouvez mettre POKéMON dans un\n"
+	.string "CONCOURS de gentillesse ! Je suis\p"
+	.string "tellement contente d'avoir élevé\n"
+	.string "mon POKéMON avec soin et amour…$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My POKéMON rules!\p"
-	.string "It's cool, tough yet beautiful, cute,\n"
-	.string "and smart. It's complete!\p"
-	.string "I may as well go for wins in every\n"
-	.string "single CONTEST.$"
+	.string "Mes règles POKéMON ! C'est cool,\n"
+	.string "résistant mais beau, mignon et\p"
+	.string "intelligent. C'est complet ! Autant\n"
+	.string "viser des victoires dans chaque\p"
+	.string "CONCOURS.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "NORMAL RANK STAGE!$"
-
+	.string "CONCOURS POKéMON ÉTAPE DE RANG\n"
+	.string "NORMAL !$"

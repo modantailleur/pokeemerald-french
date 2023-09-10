@@ -283,149 +283,168 @@ MossdeepCity_SpaceCenter_1F_Movement_MoveGruntFromStairs:
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
-	.string "The rocket's launch is imminent!$"
+	.string "Le lancement de la fusée est\n"
+	.string "imminent !$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "La fusée a décollé en toute\n"
+	.string "sécurité ! C'est un lancement\p"
+	.string "réussi non. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.string "Je sais que les choses vont un peu\n"
+	.string "mal en ce moment, mais… Le\p"
+	.string "lancement de la fusée est imminent\n"
+	.string "!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Je sais que les choses vont un peu\n"
+	.string "mal en ce moment, mais… La fusée a\p"
+	.string "décollé en toute sécurité ! C'est\n"
+	.string "un lancement réussi non. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.string "Un lancement de fusée exige la\n"
+	.string "perfection. Même une marge d’erreur\p"
+	.string "de 1 % n’est pas autorisée. Même si\n"
+	.string "tout va bien à 99 %, tout cela ne\p"
+	.string "sert à rien si 1 % ne sert à rien.\n"
+	.string "Malgré cela, nous n’arrêtons jamais\p"
+	.string "d’essayer. Pourquoi? C'est un rêve\n"
+	.string "qui ne finit jamais.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.string "Ces voyous de MAGMA ont leur dévolu\n"
+	.string "sur notre CENTRE SPATIAL. Mais nous\p"
+	.string "ne pouvons pas permettre à quelque\n"
+	.string "chose d'aussi mineur d'interférer\p"
+	.string "avec le lancement de notre fusée !$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.string "Je me promenais sur la plage quand\n"
+	.string "j'ai trouvé ça. Ce n'est pas tout\p"
+	.string "ce dont j'ai besoin, alors vous\n"
+	.string "pouvez l'avoir.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.string "La région HOENN est connue depuis\n"
+	.string "longtemps pour ses pluies de\p"
+	.string "météores.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.string "L'ÉQUIPE MAGMA ne peut pas être\n"
+	.string "autorisée à voler le carburant de\p"
+	.string "la fusée. Oh, au fait, tu peux\n"
+	.string "avoir cette pierre que j'ai trouvée\p"
+	.string "sur la plage.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.string "Avec TEAM MAGMA dans les parages,\n"
+	.string "je suppose que les promenades sur\p"
+	.string "la plage ne sont pas sûres.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.string "Certains prétendent que POKéMON\n"
+	.string "vient de l'espace. Est-ce que ça\p"
+	.string "pourrait être vrai ?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA should take care of\n"
-	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.string "La TEAM AQUA devrait s'occuper de\n"
+	.string "la TEAM MAGMA ! Mais s’ils\p"
+	.string "faisaient cela, TEAM AQUA deviendra\n"
+	.string "audacieux et effronté, n’est-ce pas\p"
+	.string "?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.string "Un morceau de métal géant éclate\n"
+	.string "dans le ciel et s’envole dans\p"
+	.string "l’espace… Cela me laisse perplexe\n"
+	.string "!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.string "Un morceau de métal géant éclate\n"
+	.string "dans le ciel et s’envole dans\p"
+	.string "l’espace… Mais la TEAM MAGMA veut\n"
+	.string "gâcher mon rêve ! Je n'ai rien de\p"
+	.string "tout ça !$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.string "PIERRE : {PLAYER}{KUN}, as-tu déjà\n"
+	.string "lu cette proclamation ? L'ÉQUIPE\p"
+	.string "MAGMA s'en prend au carburant pour\n"
+	.string "fusée sur cette île. Je ne sais pas\p"
+	.string "pourquoi ils en auraient besoin,\n"
+	.string "mais ils ne peuvent pas être\p"
+	.string "autorisés à le prendre. Je vais\n"
+	.string "garder un œil sur les choses encore\p"
+	.string "un moment. En attendant, pourquoi\n"
+	.string "n'irais-tu pas visiter la ville ?$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.string "Comme promis, nous sommes venus\n"
+	.string "chercher le carburant pour fusée !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
-	.string "Ran out of fuel…$"
+	.string "Je suis tombé en panne d'essence…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.string "Ne pensez pas que vous êtes sur une\n"
+	.string "lancée simplement parce que vous\p"
+	.string "m'avez battu !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.string "Nous vous avons prévenu ! Il n'y a\n"
+	.string "rien de sournois chez nous !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
-	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.string "Grrr… Nous aurions dû recourir à\n"
+	.string "une trahison sournoise…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.string "Ok, je comprends déjà ! La\n"
+	.string "prochaine fois, nous viendrons à\p"
+	.string "l'improviste.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.string "Le carburant pour fusée que le\n"
+	.string "SPACE CENTER a entreposé, c'est ce\p"
+	.string "que nous recherchons. Nous avons\n"
+	.string "l'intention d'en prendre le moindre\p"
+	.string "morceau !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.string "S'il vous plaît, pouvez-vous me\n"
+	.string "donner un peu de carburant ? Même\p"
+	.string "une tasse de chintzy fera l'affaire\n"
+	.string "!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.string "Qu'allons-nous faire du carburant\n"
+	.string "de la fusée ? Comment pourrais-je\p"
+	.string "savoir? Demandez à notre chef à\n"
+	.string "l'étage !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.string "Notre chef a dit que personne, mais\n"
+	.string "personne, ne me dépasse !$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
-	.string "Ack! Ack! Aaack!$"
+	.string "Acqu ! Acqu ! Aaack!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.string "S'il vous plaît, dites à notre chef\n"
+	.string "que je n'ai jamais abandonné mon\p"
+	.string "poste. Que je suis resté jusqu'au\n"
+	.string "bout…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
-	.string "                                          TEAM MAGMA”$"
+	.string "C'est… Un avis d'intention de voler\n"
+	.string "? “ Au personnel du SPACE CENTER :\p"
+	.string "Comment allez-vous ? Nous allons\n"
+	.string "bien. “ Nous vous rendrons bientôt\p"
+	.string "visite pour prendre le carburant de\n"
+	.string "votre fusée. “ S'il vous plaît,\p"
+	.string "n'essayez pas de nous arrêter. Nous\n"
+	.string "prendrons le carburant quoi qu’il\p"
+	.string "arrive. “ Qu'il y ait plus de terre\n"
+	.string "! ÉQUIPE MAGMA”$"

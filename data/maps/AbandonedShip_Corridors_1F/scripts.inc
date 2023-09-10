@@ -11,16 +11,17 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "What's so funny about having my inner\n"
-	.string "tube aboard the ship?$"
+	.string "Qu'y a-t-il de si drôle à avoir ma\n"
+	.string "chambre à air à bord du navire ?$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
-	.string "Whoa, you overwhelmed me!$"
+	.string "Whoa, tu m'as bouleversé !$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "It's not easy throwing POKé BALLS\n"
-	.string "while hanging on to an inner tube!$"
+	.string "Pas facile de lancer des POKé BALLS\n"
+	.string "en s'accrochant à une chambre à air\p"
+	.string "!$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-	.string "Isn't it fun here?\n"
-	.string "I get excited just being here!$"
+	.string "N'est-ce pas amusant ici ? Je suis\n"
+	.string "excité juste d'être ici !$"

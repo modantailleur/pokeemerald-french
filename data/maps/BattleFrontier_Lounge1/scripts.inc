@@ -151,108 +151,118 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-	.string "I am the man they revere as\l"
-	.string "the legendary top POKéMON BREEDER!\p"
-	.string "If you ever become as seasoned as me,\n"
-	.string "you'll see the abilities of POKéMON\l"
-	.string "at a glance.\p"
-	.string "You're a TRAINER. Doesn't it interest\n"
-	.string "you to know your own POKéMON's\l"
-	.string "abilities?\p"
-	.string "Here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Depuis 70 ans j'élève des POKéMON !\n"
+	.string "Je suis l'homme qu'ils vénèrent\p"
+	.string "comme le légendaire meilleur\n"
+	.string "éleveur de POKéMON ! Si jamais vous\p"
+	.string "devenez aussi aguerri que moi, vous\n"
+	.string "verrez les capacités de POKéMON en\p"
+	.string "un coup d'oeil. Vous êtes\n"
+	.string "FORMATTHIEUEUR. Cela ne vous\p"
+	.string "intéresse-t-il pas de connaître les\n"
+	.string "capacités de votre propre POKéMON ?\p"
+	.string "Ici! Jetons un coup d'œil à votre\n"
+	.string "POKéMON !$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe\n"
-	.string "as being of average ability.$"
+	.string "…Hmm… Celui-ci, dans l’ensemble, je\n"
+	.string "le décrirais comme étant de\p"
+	.string "capacité moyenne.$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "…Hmm… Celui-ci, dans l’ensemble, je\n"
+	.string "le décrirais comme ayant des\p"
+	.string "capacités supérieures à la\n"
+	.string "moyenne.$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "…Hmm… Celui-ci, dans l’ensemble, je\n"
+	.string "dirais qu’il est assez\p"
+	.string "impressionnant en termes de\n"
+	.string "capacités !$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "…Hmm… Celui-ci, dans l’ensemble, je\n"
+	.string "dirais qu’il est merveilleusement\p"
+	.string "exceptionnel en termes de capacités\n"
+	.string "!$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its HP…$"
+	.string "D’ailleurs, le meilleur aspect, je\n"
+	.string "dirais, c’est son HP…$"
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its ATTACK…$"
+	.string "D’ailleurs, le meilleur aspect, je\n"
+	.string "dirais, c’est son ATTAQUE…$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its DEFENSE…$"
+	.string "D’ailleurs, le meilleur aspect, je\n"
+	.string "dirais, c’est sa DÉFENSE…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL ATTACK…$"
+	.string "D’ailleurs, le meilleur aspect, je\n"
+	.string "dirais, c’est son ATTAQUE\p"
+	.string "SPÉCIALE…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL DEFENSE…$"
+	.string "D’ailleurs, le meilleur aspect, je\n"
+	.string "dirais, est sa DÉFENSE SPÉCIALE…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPEED…$"
+	.string "Soit dit en passant, le meilleur\n"
+	.string "aspect, je dirais, est sa VITESSE…$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
-	.string "That stat is relatively good.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Cette statistique est relativement\n"
+	.string "bonne. …Hm… C'est comme ça que je\p"
+	.string "l'appelle.$"
 
 BattleFrontier_Lounge1_Text_StatImpressive:
-	.string "That stat is quite impressive.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Cette statistique est assez\n"
+	.string "impressionnante. …Hm… C'est comme\p"
+	.string "ça que je l'appelle.$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding:
-	.string "That stat is outstanding!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Cette statistique est\n"
+	.string "exceptionnelle ! …Hm… C'est comme\p"
+	.string "ça que je l'appelle.$"
 
 BattleFrontier_Lounge1_Text_StatFlawless:
-	.string "It's flawless! A thing of perfection!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "C'est impeccable ! Une chose de\n"
+	.string "perfection ! …Hm… C'est comme ça\p"
+	.string "que je l'appelle.$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "Quoi? Vous n'avez pas le temps pour\n"
+	.string "mes conseils ? Vous devriez\p"
+	.string "toujours avoir envie d’apprendre\n"
+	.string "des expériences de vos aînés !$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
-	.string "Yes, what is it now?\p"
-	.string "I have business that needs tending!\n"
-	.string "Save it for next time!$"
+	.string "Oui, qu'est-ce qu'il y a maintenant\n"
+	.string "? J'ai des affaires à régler !\p"
+	.string "Gardez-le pour la prochaine fois !$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-	.string "abilities intrigue you?\p"
-	.string "Here, here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Ah, jeune ! Les capacités de votre\n"
+	.string "POKéMON vous intriguent ? Ici ici!\p"
+	.string "Jetons un coup d'œil à votre\n"
+	.string "POKéMON !$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
-	.string "An expert I am, but even I can't tell\n"
-	.string "anything about an unhatched POKéMON!\p"
-	.string "Show me a POKéMON!\n"
-	.string "A POKéMON is what I need to see!$"
+	.string "Je suis un expert, mais même moi,\n"
+	.string "je ne peux rien dire sur un POKéMON\p"
+	.string "non éclos ! Montre-moi un POKéMON !\n"
+	.string "Un POKéMON, c'est ce que j'ai\p"
+	.string "besoin de voir !$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
+	.string "Il a dit que mon POKéMON était\n"
+	.string "exceptionnel ! Je suis content de\p"
+	.string "l'avoir élevé avec soin !$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "But I didn't do anything special\l"
-	.string "raising it…$"
-
+	.string "Il a dit que mon POKéMON était\n"
+	.string "exceptionnel ! Mais je n'ai rien\p"
+	.string "fait de spécial pour l'élever…$"

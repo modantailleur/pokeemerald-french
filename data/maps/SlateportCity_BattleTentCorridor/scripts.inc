@@ -156,122 +156,130 @@ SlateportCity_BattleTentCorridor_Movement_AttendantExit:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 SlateportCity_ContestHall_Text_AdviceForContests:
-	.string "Want a tasty little bit of advice\n"
-	.string "for CONTESTS?\p"
-	.string "Using a certain move after another\n"
-	.string "certain kind of move sometimes gets\l"
-	.string "you extra attention.\p"
-	.string "If you know what you're doing,\n"
-	.string "you can score big in appeal.\p"
-	.string "Of course, your opponents might try\n"
-	.string "disrupting your POKéMON's showing.$"
+	.string "Envie d’un petit conseil savoureux\n"
+	.string "pour les CONCOURS ? Utiliser un\p"
+	.string "certain mouvement après un autre\n"
+	.string "certain type de mouvement attire\p"
+	.string "parfois une attention particulière.\n"
+	.string "Si vous savez ce que vous faites,\p"
+	.string "vous pouvez gagner gros en attrait.\n"
+	.string "Bien sûr, vos adversaires\p"
+	.string "pourraient essayer de perturber\n"
+	.string "l'affichage de votre POKéMON.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a CONTEST JUDGE.\p"
-	.string "I wonder what I should be when I\n"
-	.string "grow up, a JUDGE or a GYM LEADER?$"
+	.string "Mon papa, c'est un JUGE DE\n"
+	.string "CONCOURS. Je me demande ce que je\p"
+	.string "devrais être quand je serai grand,\n"
+	.string "un JUGE ou un GYM LEADER ?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
-	.string "Hey, man, I'm like majorly cheesed,\n"
-	.string "you know. Like, you know, I just\l"
-	.string "wanted to know why my POKéMON\l"
-	.string "never won, you know, like, hey?\p"
-	.string "So, like, I gave the JUDGE my two\n"
-	.string "cents, you know, they're free.\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "Hé, mec, je suis comme un gros\n"
+	.string "fromage, tu sais. Genre, tu sais,\p"
+	.string "je voulais juste savoir pourquoi\n"
+	.string "mon POKéMON n'a jamais gagné, tu\p"
+	.string "sais, genre, hé ? Alors, j'ai donné\n"
+	.string "mes deux cents au JUGE, vous savez,\p"
+	.string "ils sont gratuits. Et il ne voulait\n"
+	.string "pas m'écouter, genre, hé ! Alors,\p"
+	.string "genre, c'est vraiment décevant, mec\n"
+	.string "! Hé, comme toi ! Zippe-le, tu sais\p"
+	.string "? Juste, tu sais, prends ça !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "C'est genre TM41, tu sais ? Hé,\n"
+	.string "c'est TORMENT, tu m'entends ? Par\p"
+	.string "exemple, ça ne permettra pas à\n"
+	.string "l'autre gars d'utiliser le même\p"
+	.string "mouvement deux fois de suite, tu\n"
+	.string "vois ? Hé, maintenant, écoutez ici,\p"
+	.string "genre, je ne vous inflige pas de\n"
+	.string "tourment !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
-	.string "MC: Oh, my, my!\n"
-	.string "Now isn't that a dandy of a POKéMON?\p"
-	.string "Please! Do step right up and take\n"
-	.string "part in our splendid CONTESTS!\p"
-	.string "You'll do well! I'm sure of it!\n"
-	.string "My eyes have never failed me!$"
+	.string "MC : Oh, mon Dieu ! N'est-ce pas un\n"
+	.string "superbe POKéMON ? S'il te plaît!\p"
+	.string "N'hésitez pas et participez à nos\n"
+	.string "splendides CONCOURS ! Vous ferez\p"
+	.string "bien ! Je suis sur et certain! Mes\n"
+	.string "yeux ne m'ont jamais fait défaut !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
-	.string "I see that you're a TRAINER!\p"
-	.string "Then, it just wouldn't do for you\n"
-	.string "to miss a POKéMON CONTEST!\p"
-	.string "Get a CONTEST PASS in VERDANTURF\n"
-	.string "CITY and enter anytime!$"
+	.string "JUGE : Eh bien, bonjour ! Je vois\n"
+	.string "que tu es FORMATTHIEUEUR ! Alors,\p"
+	.string "il ne faudrait pas que vous\n"
+	.string "manquiez un CONCOURS POKéMON !\p"
+	.string "Obtenez un PASS CONCOURS à\n"
+	.string "VERGUIDOTURF CITY et participez à\p"
+	.string "tout moment !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "It's appeal time!\n"
-	.string "What should I lead with?$"
+	.string "C'est l'heure de l'appel ! Avec\n"
+	.string "quoi dois-je commencer ?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "They didn't pay much attention to\n"
-	.string "my POKéMON's appeal…\p"
-	.string "Humph, that JUDGE, he doesn't know\n"
-	.string "a good thing when he sees it.$"
+	.string "Ils n'ont pas prêté beaucoup\n"
+	.string "d'attention à l'attrait de mon\p"
+	.string "POKéMON… Humph, ce JUGE, il ne sait\n"
+	.string "rien de bon quand il le voit.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
-	.string "Oh, hi! You must be a serious fan to get\n"
-	.string "this close to the action.\p"
-	.string "I'll reward your enthusiasm with\n"
-	.string "this sage advice.\p"
-	.string "If a move goes over really well,\n"
-	.string "the audience will get excited.\p"
-	.string "The POKéMON that makes its appeal\n"
-	.string "right when everyone's excited…\p"
-	.string "Well, you'd think something good has\n"
-	.string "to happen!$"
+	.string "Oh salut! Vous devez être un fan\n"
+	.string "sérieux pour être aussi proche de\p"
+	.string "l'action. Je récompenserai votre\n"
+	.string "enthousiasme avec ce sage conseil.\p"
+	.string "Si un mouvement se passe vraiment\n"
+	.string "bien, le public sera enthousiasmé.\p"
+	.string "Le POKéMON qui fait son apparition\n"
+	.string "quand tout le monde est excité… Eh\p"
+	.string "bien, on pourrait penser que\n"
+	.string "quelque chose de bien doit arriver\p"
+	.string "!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MoreFreakedOutThanMon:
-	.string "I can't do this! I'm more freaked out\n"
-	.string "than my POKéMON.\p"
-	.string "I'm shivering and my heart is racing!$"
+	.string "Je ne peux pas faire ça ! Je suis\n"
+	.string "plus paniqué que mon POKéMON. Je\p"
+	.string "frissonne et mon cœur bat la\n"
+	.string "chamade !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_BattleAndContestAlike:
-	.string "A battle and a CONTEST aren't the\n"
-	.string "same, but they are alike, too.\p"
-	.string "You need to work hard and believe\n"
-	.string "in the POKéMON you've raised.$"
+	.string "Une bataille et un CONCOURS ne sont\n"
+	.string "pas identiques, mais ils se\p"
+	.string "ressemblent aussi. Vous devez\n"
+	.string "travailler dur et croire au POKéMON\p"
+	.string "que vous avez collecté.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "That POKéMON looks like it's on top\n"
-	.string "of its game, huh?\p"
-	.string "A POKéMON that does good in the\n"
-	.string "secondary judging seems to be more\l"
-	.string "relaxed when it's doing appeals.$"
+	.string "Ce POKéMON a l'air d'être au top de\n"
+	.string "sa forme, hein ? Un POKéMON qui\p"
+	.string "fait du bien dans le jugement\n"
+	.string "secondaire semble être plus détendu\p"
+	.string "lorsqu'il fait appel.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyMonBetterThanThatLot:
-	.string "Will you look at that sorry sight?\p"
-	.string "Heh, my POKéMON's absolutely better\n"
-	.string "than that lot!$"
+	.string "Allez-vous regarder ce triste\n"
+	.string "spectacle ? Heh, mon POKéMON est\p"
+	.string "absolument meilleur que ça !$"
 
 @ Unused
 SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
-	.string "Don't you get the urge to move with\n"
-	.string "POKéMON if they're putting on an\l"
-	.string "energetic appeal?$"
+	.string "N'avez-vous pas envie de bouger\n"
+	.string "avec POKéMON s'ils lancent un appel\p"
+	.string "énergique ?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "HYPER RANK STAGE!$"
-
+	.string "CONCOURS POKéMON STAGE HYPER RANG\n"
+	.string "!$"

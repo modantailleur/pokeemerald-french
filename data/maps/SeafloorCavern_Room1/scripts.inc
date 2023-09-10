@@ -12,25 +12,26 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.string "Nous n'avons pas besoin d'un enfant\n"
+	.string "dans les parages ! Rentrez déjà\p"
+	.string "chez vous !$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Je veux rentrer à la maison…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.string "Je veux obtenir une promotion pour\n"
+	.string "pouvoir diriger les GRUNTS…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.string "Ce sous-marin… Il est minuscule à\n"
+	.string "l'intérieur. J'ai mal partout !$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Perdre me fait mal !$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
-
+	.string "Ce sous-marin qu'on a détourné,\n"
+	.string "mec, c'est brutal comme un voyage.\p"
+	.string "C'est beaucoup trop serré là-dedans\n"
+	.string "!$"

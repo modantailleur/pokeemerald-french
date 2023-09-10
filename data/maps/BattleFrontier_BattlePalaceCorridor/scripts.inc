@@ -122,30 +122,33 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Les gens et POKéMON, ce ne sont que\n"
+	.string "les mêmes... Leur nature\p"
+	.string "individuelle les rend bons dans\n"
+	.string "certaines choses et pas bons dans\p"
+	.string "d'autres.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "Plutôt que d'essayer de faire faire\n"
+	.string "à un POKéMON ce qu'il n'aime pas,\p"
+	.string "essayez de le laisser faire ce\n"
+	.string "qu'il aime et qu'il sait faire.\p"
+	.string "Mettez-vous à la place du POKéMON\n"
+	.string "et réfléchissez aux mouvements\p"
+	.string "qu'il aimerait.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "La nature d'un POKéMON est une\n"
+	.string "chose remarquable… Certains POKéMON\p"
+	.string "se comportent d'une manière\n"
+	.string "complètement différente lorsqu'ils\p"
+	.string "sont acculés.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Commencez-vous à comprendre comment\n"
+	.string "la nature d'un POKéMON le fait se\p"
+	.string "comporter ?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
-
+	.string "Ah… je vois un lien fort et sincère\n"
+	.string "entre toi et ton POKéMON…$"

@@ -28,42 +28,42 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Quand je suis là… Un curieux\n"
+	.string "pouvoir afflue en moi…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Le pouvoir diminue…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Peut-être que le pouvoir vient des\n"
+	.string "esprits de POKéMON dans un sommeil\p"
+	.string "agité ici…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Fufufu… J'ai perdu le match, mais…\n"
+	.string "J'ai cette petite capacité… Sans\p"
+	.string "jamais mettre la main sur ton\n"
+	.string "POKéNAV… Salut !$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Derrière toi… Qu'est-ce qu'il y a…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Quelque chose s'est évanoui…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "Les POKéMON au repos ici… Parfois,\n"
+	.string "ils jouent…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Vous avez perdu vos repères ?\n"
+	.string "N'ayez crainte car je suis là !$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "N'étais-tu pas perdu ?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
-
+	.string "J'avais le sentiment qu'un DRESSEUR\n"
+	.string "perdu serait paniqué et facile à\p"
+	.string "battre. C'est sale et je ne\n"
+	.string "réessayerai pas…$"

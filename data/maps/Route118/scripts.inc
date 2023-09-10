@@ -245,57 +245,55 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+	.string "PIERRE : Salut, {PLAYER}{KUN} !\n"
+	.string "C'est moi, PIERRE ! Nous nous\p"
+	.string "sommes rencontrés dans la grotte\n"
+	.string "près de DEWFORD. Avez-vous\p"
+	.string "rencontré de nombreux types de\n"
+	.string "POKéMON depuis la dernière fois que\p"
+	.string "je vous ai vu ? Il existe de très\n"
+	.string "nombreux types de POKéMON dans\p"
+	.string "notre vaste monde. Si vous\n"
+	.string "souhaitez afficher uniquement vos\p"
+	.string "favoris, ce n'est pas un problème.\n"
+	.string "Peut-être trouvez-vous plus amusant\p"
+	.string "d'élever toutes sortes de POKéMON.\n"
+	.string "En tant que FORMATTHIEUEUR de\p"
+	.string "POKéMON, qu'en pensez-vous ? Bien\n"
+	.string "sûr, cela ne me regarde pas. Ce\p"
+	.string "serait bien si nous nous\n"
+	.string "retrouvions quelque part.$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
-	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "Hmm! UNE BONNE CANNE, c'est\n"
+	.string "vraiment bien ! N'êtes-vous pas\p"
+	.string "d'accord ?$"
 
 Route118_Text_IdenticalMindsTakeThis:
-	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
-	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "Hmm! Nous sommes du même avis !\n"
+	.string "Hmm! Prends cette BONNE CANNE !$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "Partout où il y a de l’eau, tentez\n"
+	.string "votre chance à la pêche.$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "Vous n'aimez pas pêcher ?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Essayez d'attraper toutes sortes de\n"
+	.string "POKéMON avec votre BONNE CANNE.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "Même s'il n'y a pas de bateau, vous\n"
+	.string "pouvez traverser les rivières et la\p"
+	.string "mer si vous possédez un POKéMON qui\n"
+	.string "connaît le SURF. On peut compter\p"
+	.string "sur POKéMON pour faire beaucoup de\n"
+	.string "choses !$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "ROUTE 118 {LEFT_ARROW} LAVANDIA$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
-
+	.string "ROUTE 118 {UP_ARROW} ROUTE 119$"

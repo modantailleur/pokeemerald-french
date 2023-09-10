@@ -27,31 +27,33 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "Remplis-toi les yeux là-dessus !\n"
+	.string "C'est un FOULARD EN SOIE. C'est à\p"
+	.string "la pointe de la mode, ouais ! Oh,\n"
+	.string "je vois tes yeux pétiller ! Vous\p"
+	.string "appréciez mon style éblouissant !\n"
+	.string "Oh, tu es un délice ! Voici. Je\p"
+	.string "veux que tu l'aies !$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "Oh, tu n'as pas de place ?\n"
+	.string "Maintenant, écoutez bien, cette\p"
+	.string "ÉCHARPE est un incontournable ! Eh\n"
+	.string "bien, je vendrais tous mes articles\p"
+	.string "pour l'obtenir !$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "Le SILK SCARF augmente la puissance\n"
+	.string "des mouvements de type NORMAL.\p"
+	.string "C'est une merveilleuse ÉCHARPE qui\n"
+	.string "ira avec presque tous les POKéMON\p"
+	.string "!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
-
+	.string "Wow, vous avez pris la peine de\n"
+	.string "traverser la mer pour visiter\p"
+	.string "DEWFORD ? Êtes-vous peut-être venu\n"
+	.string "ici parce que vous avez entendu\p"
+	.string "parler de BASTIEN ? Il est\n"
+	.string "tellement cool… Tout le monde\p"
+	.string "l'idolâtre.$"

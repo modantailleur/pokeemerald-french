@@ -37,41 +37,42 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER} a noté le code secret sur la\n"
+	.string "porte. “ TRICK MASTER est fabuleux.\p"
+	.string "” … … … … … … … … La serrure s'est\n"
+	.string "ouverte !$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the CUT we just learned!$"
+	.string "Je vais me frayer un chemin vers la\n"
+	.string "victoire avec le CUT que nous\p"
+	.string "venons d'apprendre !$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
-	.string "Why are you so serious?$"
+	.string "Pourquoi es-tu si sérieux ?$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.string "Je ne me lasse jamais de pirater et\n"
+	.string "de couper !$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.string "Je suis entré dans cette maison\n"
+	.string "étrange par accident…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
-	.string "And now I've lost…$"
+	.string "Et maintenant j'ai perdu…$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.string "J'ai perdu mon chemin, j'ai perdu\n"
+	.string "une bataille, et je suis maintenant\p"
+	.string "encore plus perdu… Je ne peux pas\n"
+	.string "m'en sortir…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the TRICK MASTER?$"
+	.string "Qui est le TRICK MASTER ?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
-	.string "I lost while I was lost in thought!$"
+	.string "J'ai perdu alors que j'étais perdu\n"
+	.string "dans mes pensées !$"
 
 Route110_TrickHousePuzzle1_Text_RobinPostBattle:
-	.string "You're strong!\n"
-	.string "Just who are you?$"
-
+	.string "Vous êtes fort! Qui es-tu ?$"

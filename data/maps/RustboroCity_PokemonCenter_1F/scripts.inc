@@ -31,19 +31,20 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "My POKéMON has a NAIVE nature, and my\n"
-	.string "friend's has a JOLLY nature.\p"
-	.string "It's fascinating how POKéMON have\n"
-	.string "personalities!$"
+	.string "Mon POKéMON a une nature NAIVE, et\n"
+	.string "celui de mon ami a une nature\p"
+	.string "JOLLY. C'est fascinant à quel point\n"
+	.string "les POKéMON ont des personnalités\p"
+	.string "!$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
-	.string "Just like people, there are male and\n"
-	.string "female POKéMON.\p"
-	.string "But no one seems to have any idea how\n"
-	.string "they're different.$"
+	.string "Tout comme les humains, il existe\n"
+	.string "des POKéMON mâles et femelles. Mais\p"
+	.string "personne ne semble avoir la moindre\n"
+	.string "idée en quoi ils sont différents.$"
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
-	.string "The man next door gave me an HM!\p"
-	.string "I used it to teach my POKéMON how to\n"
-	.string "CUT down skinny trees.$"
-
+	.string "L'homme d'à côté m'a donné un HM !\n"
+	.string "Je l'ai utilisé pour apprendre à\p"
+	.string "mon POKéMON comment couper des\n"
+	.string "arbres maigres.$"

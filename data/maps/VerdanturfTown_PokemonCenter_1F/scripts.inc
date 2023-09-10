@@ -27,18 +27,16 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "You can't consider yourself a real\n"
-	.string "TRAINER if you don't have faith\l"
-	.string "in your POKéMON.\p"
-	.string "Only those people who can believe\n"
-	.string "in their battling POKéMON can win\l"
-	.string "through to the very end.$"
+	.string "Vous ne pouvez pas vous considérer\n"
+	.string "comme un véritable DRESSEUR si vous\p"
+	.string "n'avez pas confiance en votre\n"
+	.string "POKéMON. Seuls ceux qui peuvent\p"
+	.string "croire en leur POKéMON en combat\n"
+	.string "peuvent gagner jusqu'au bout.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
-	.string "The reason why anyone would visit\n"
-	.string "VERDANTURF…\p"
-	.string "It's the BATTLE TENT. It goes without\n"
-	.string "saying.\p"
-	.string "Or is there somebody here that you\n"
-	.string "came to see?$"
-
+	.string "La raison pour laquelle tout le\n"
+	.string "monde visiterait VERGUIDOTURF…\p"
+	.string "C'est la TENTE DE BATAILLE. Il va\n"
+	.string "sans dire. Ou y a-t-il quelqu'un\p"
+	.string "ici que vous êtes venu voir ?$"

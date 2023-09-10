@@ -926,255 +926,238 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.string "{PLAYER} est entré dans le BATTLE\n"
+	.string "DOME !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
-	.string "{STR_VAR_1}\n"
-	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
-	.string "Let the battle begin!$"
+	.string "{STR_VAR_1} correspondance ! {PLAYER}\n"
+	.string "contre {STR_VAR_2} ! Que la bataille\p"
+	.string "commence !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{PLAYER} est le gagnant !\n"
+	.string "Félicitations !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{STR_VAR_2} est le gagnant !\n"
+	.string "Félicitations !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} est le champion du tournoi\n"
+	.string "de combat de niveau 50 !\p"
+	.string "Félicitations !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} est le champion du tournoi\n"
+	.string "de combat de niveau ouvert !\p"
+	.string "Félicitations !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.string "Quelle finition incroyable ! Nous\n"
+	.string "avons un double KO ! Dans cet\p"
+	.string "événement, les règles du Battle\n"
+	.string "Tournament nécessitent une décision\p"
+	.string "de l'ARBITRE. Veuillez patienter\n"
+	.string "pendant que le jugement est en\p"
+	.string "cours.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {STR_VAR_1}!\l"
-	.string "Congratulations!$"
+	.string "Les ARBITRES ont pris une décision\n"
+	.string "! Le gagnant est… Oh, mon Dieu ! Le\p"
+	.string "gagnant est {STR_VAR_1} ! Félicitations\n"
+	.string "!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
-	.string "Congratulations!$"
+	.string "Les ARBITRES ont pris une décision\n"
+	.string "! Le gagnant est… Oh, mon Dieu ! Le\p"
+	.string "gagnant est {PLAYER} ! Félicitations\n"
+	.string "!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
-	.string "The bright new hope!\p"
-	.string "$"
+	.string "Le nouvel espoir brillant ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
-	.string "The rising star!\p"
-	.string "$"
+	.string "L'étoile montante ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Will this TRAINER race to\n"
-	.string "the championship?\p"
-	.string "$"
+	.string "Cet DRESSEUR courra-t-il jusqu'au\n"
+	.string "championnat ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
-	.string "$"
+	.string "L’exploit d’un championnat peut-il\n"
+	.string "être réalisé du premier coup ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Can the loss of the last match\n"
-	.string "be avenged?\p"
-	.string "$"
+	.string "La défaite du dernier match\n"
+	.string "peut-elle être vengée ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "The TRAINER is on fire for\n"
-	.string "the first championship try!\p"
-	.string "$"
+	.string "Le DRESSEUR est en feu pour le\n"
+	.string "premier essai de championnat ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
-	.string "$"
+	.string "Une victoire ici signifie que cet\n"
+	.string "DRESSEUR passe à la finale ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Will the long-held dream of\n"
-	.string "a championship finally come true?\p"
-	.string "$"
+	.string "Le rêve de longue date d’un\n"
+	.string "championnat va-t-il enfin se\p"
+	.string "réaliser ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
-	.string "The invincible champion!\p"
-	.string "$"
+	.string "Le champion invincible ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Can anyone hope to beat this\n"
-	.string "TRAINER?\p"
-	.string "$"
+	.string "Quelqu'un peut-il espérer battre ce\n"
+	.string "DRESSEUR ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Do battles exist solely for\n"
-	.string "this TRAINER?\p"
-	.string "$"
+	.string "Les batailles existent-elles\n"
+	.string "uniquement pour ce DRESSEUR ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
-	.string "The current champion aiming to\n"
-	.string "retain the title!\p"
-	.string "$"
+	.string "L'actuel champion vise à conserver\n"
+	.string "le titre ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned:
-	.string "The former champion has returned!\p"
-	.string "$"
+	.string "L'ancien champion est de retour ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
-	.string "The former toughness has returned!\p"
-	.string "$"
+	.string "L'ancienne ténacité est revenue ! $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Will this TRAINER do as expected\n"
-	.string "and advance to the finals?\p"
-	.string "$"
+	.string "Cet DRESSEUR fera-t-il comme prévu\n"
+	.string "et se qualifiera-t-il pour la\p"
+	.string "finale ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
-	.string "Will the former champ regain\n"
-	.string "lost glory?\p"
-	.string "$"
+	.string "L'ancien champion retrouvera-t-il\n"
+	.string "la gloire perdue ? $"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
-	.string "Feel the glow of a true master!$"
+	.string "Ressentez l'éclat d'un vrai maître\n"
+	.string "!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
-	.string "Yes! The one and only!\n"
-	.string "The BATTLE DOME COMMISSIONER!\l"
-	.string "Our very own DOME ACE!\l"
-	.string "Make way for TUCKER!$"
+	.string "Et maintenant… L'DRESSEUR se tient\n"
+	.string "sur le chemin du record de {PLAYER}…\p"
+	.string "Oui ! Le seul et unique! Le\n"
+	.string "COMMISSAIRE DU BATTLE DOME ! Notre\p"
+	.string "propre DOME ACE ! Place à TAKIM !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Spectators: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.string "Spectateurs : TAKIM ! TAKIM ! TAKIM\n"
+	.string "! TAKIM ! TUEUR !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
-	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.string "TAKIM : Ahahah ! L'entendez-vous ?\n"
+	.string "Cette foule ! Ils ont tous hâte de\p"
+	.string "voir notre match ! Ahahah ! Je\n"
+	.string "parie que vous tremblez de partout\p"
+	.string "à cause de la tension de devoir me\n"
+	.string "battre ! Mais ne vous inquiétez de\p"
+	.string "rien ! Je suis le non. 1 étoile du\n"
+	.string "BATTLE DOME ! Moi, TAKIM le DOME\p"
+	.string "ACE, je vais vous baigner dans mon\n"
+	.string "éclat brillant !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
-	.string "Your strategy!\n"
-	.string "Let's see it!$"
+	.string "Votre stratégie ! Voyons ça !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
-	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.string "Incroyable! C'est incroyable! Le\n"
+	.string "vainqueur est {PLAYER} !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "The winner is TUCKER!\n"
-	.string "The DOME ACE has prevailed!\p"
-	.string "Congratulations, TUCKER!$"
+	.string "Le gagnant est TAKIM ! Le DOME ACE\n"
+	.string "a triomphé ! Félicitations, TAKIM\p"
+	.string "!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Rules are rules!\n"
-	.string "Let me see your FRONTIER PASS.$"
+	.string "TAKIM : Les règles sont les règles\n"
+	.string "! Montre-moi ton PASS FRONTIÈRE.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "The Tactics Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Le symbole tactique était gravé sur\n"
+	.string "le FRONTIER PASS !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
-	.string "… … … … … …\p"
-	.string "I sorely underestimated you. I won't\n"
-	.string "make the same mistake next time…$"
+	.string "… … … … … … Je vous ai cruellement\n"
+	.string "sous-estimé. Je ne ferai pas la\p"
+	.string "même erreur la prochaine fois…$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Can the win streak be stretched?\n"
-	.string "The confidence is there!$"
+	.string "La séquence de victoires peut-elle\n"
+	.string "être prolongée ? La confiance est\p"
+	.string "là!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
-	.string "Ladies and gentlemen!\n"
-	.string "Boys, girls, and POKéMON!\p"
-	.string "Finally!\n"
-	.string "Finally, the legend has returned!\p"
-	.string "Yes, the name of that legend!\n"
-	.string "Our very own DOME ACE!\l"
-	.string "It's none other than TUCKER!$"
+	.string "Mesdames et Messieurs! Garçons,\n"
+	.string "filles et POKéMON ! Enfin! Enfin,\p"
+	.string "la légende est revenue ! Oui, le\n"
+	.string "nom de cette légende ! Notre propre\p"
+	.string "DOME ACE ! Ce n'est autre que TAKIM\n"
+	.string "!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
-	.string "Their furnace-like heat of excitement…\l"
-	.string "This is a wonderful place…\p"
-	.string "To the crowd, I am the DOME ACE…\n"
-	.string "I represent their hopes and dreams…\l"
-	.string "I must never fade from their sight…\p"
-	.string "I must burn!\n"
-	.string "Brighter and more brilliant!\l"
-	.string "I must light all that gather here!$"
+	.string "TAKIM : Ah… Le rugissement de la\n"
+	.string "foule… Leur chaleur d'excitation\p"
+	.string "semblable à celle d'une fournaise…\n"
+	.string "C'est un endroit merveilleux… Pour\p"
+	.string "la foule, je suis l'AS DU DÔME… Je\n"
+	.string "représente leurs espoirs et leurs\p"
+	.string "rêves… Je ne dois jamais\n"
+	.string "disparaître de leur vue… Je dois\p"
+	.string "brûler ! Plus lumineux et plus\n"
+	.string "brillant ! Je dois allumer tout ce\p"
+	.string "qui se rassemble ici !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
-	.string "I will unleash all the power that\n"
-	.string "I possess! Right here and now!$"
+	.string "Je libérerai tout le pouvoir que je\n"
+	.string "possède ! Ici et maintenant !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TUCKER: You're genuinely fantastic!\p"
-	.string "Never before! I haven't ever lost in the\n"
-	.string "times I've had to unleash my power.\p"
-	.string "Yes, quite fantastic!\n"
-	.string "Your FRONTIER PASS, please?$"
+	.string "TAKIM : Vous êtes vraiment\n"
+	.string "fantastique ! Jamais avant! Je n'ai\p"
+	.string "jamais perdu depuis que j'ai dû\n"
+	.string "libérer mon pouvoir. Oui, c'est\p"
+	.string "tout à fait fantastique ! Votre\n"
+	.string "PASS FRONTIERE, s'il vous plaît ?$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "The Tactics Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Le symbole Tactics a pris un éclat\n"
+	.string "doré !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.string "Vous êtes fort, mais surtout, vous\n"
+	.string "avez un charme unique ! Je vois en\p"
+	.string "toi un potentiel certain pour une\n"
+	.string "superstar comme moi. J'attendrai\p"
+	.string "avec impatience notre prochaine\n"
+	.string "rencontre!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} est le champion du tournoi\n"
+	.string "de combat de niveau 50 !\p"
+	.string "Félicitations !$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} est le champion du tournoi\n"
+	.string "de combat de niveau ouvert !\p"
+	.string "Félicitations !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
-	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
-	.string "Let the battle begin!$"
+	.string "Le match final ! {PLAYER} contre le\n"
+	.string "DOME ACE, TAKIM ! Que la bataille\p"
+	.string "commence !$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is our very own DOME ACE!\l"
-	.string "It's TUCKER!\p"
-	.string "Congratulations! And thank you!\n"
-	.string "Let's hear it for the DOME ACE, TUCKER!$"
+	.string "Les ARBITRES ont pris une décision\n"
+	.string "! Le gagnant est… Oh, mon Dieu ! Le\p"
+	.string "gagnant est notre propre DOME ACE !\n"
+	.string "C'est TAKIM ! Toutes nos\p"
+	.string "félicitations! Et merci!\n"
+	.string "Écoutons-le pour le DOME ACE, TAKIM\p"
+	.string "!$"

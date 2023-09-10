@@ -12,25 +12,23 @@ SeafloorCavern_Room4_EventScript_Grunt4::
 	end
 
 SeafloorCavern_Room4_Text_Grunt3Intro:
-	.string "Who are you?\n"
-	.string "Where did you come in from?$"
+	.string "Qui es-tu? D'où viens-tu ?$"
 
 SeafloorCavern_Room4_Text_Grunt3Defeat:
-	.string "Lost it…$"
+	.string "Je l'ai perdu…$"
 
 SeafloorCavern_Room4_Text_Grunt3PostBattle:
-	.string "I can't find the way out!\p"
-	.string "I'm not afraid. Don't get me wrong!$"
+	.string "Je ne trouve pas la sortie ! Je\n"
+	.string "n'ai pas peur. Ne vous méprenez pas\p"
+	.string "!$"
 
 SeafloorCavern_Room4_Text_Grunt4Intro:
-	.string "Who are you?\n"
-	.string "Where do you think you're going?$"
+	.string "Qui es-tu? Où penses-tu aller ?$"
 
 SeafloorCavern_Room4_Text_Grunt4Defeat:
-	.string "I failed to win!$"
+	.string "Je n'ai pas réussi à gagner !$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
-	.string "My partner forgot the map in that\n"
-	.string "submarine!\p"
-	.string "How's that for being useless?$"
-
+	.string "Mon partenaire a oublié la carte\n"
+	.string "dans ce sous-marin ! Comment ça,\p"
+	.string "c'est d'être inutile ?$"

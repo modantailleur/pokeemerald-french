@@ -47,12 +47,11 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "The door is locked.$"
+	.string "La porte est verrouillée.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+	.string "Utiliser la CLÉ DU SOUS-SOL ?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
-
+	.string "{PLAYER} a utilisé la CLÉ DU\n"
+	.string "SOUS-SOL. La porte s'est ouverte!$"

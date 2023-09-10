@@ -6,10 +6,11 @@ OldaleTown_House1_EventScript_Woman::
 	end
 
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
-	.string "When a POKéMON battle starts, the one\n"
-	.string "at the left of the list goes out first.\p"
-	.string "So, when you get more POKéMON in your\n"
-	.string "party, try switching around the order\l"
-	.string "of your POKéMON.\p"
-	.string "It could give you an advantage.$"
-
+	.string "Lorsqu'une bataille POKéMON\n"
+	.string "commence, celui à gauche de la\p"
+	.string "liste disparaît en premier. Ainsi,\n"
+	.string "lorsque vous avez plus de POKéMON\p"
+	.string "dans votre groupe, essayez de\n"
+	.string "changer l'ordre de vos POKéMON.\p"
+	.string "Cela pourrait vous donner un\n"
+	.string "avantage.$"

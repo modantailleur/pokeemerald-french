@@ -450,198 +450,224 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Tout d’abord, nous conserverons\n"
+	.string "votre POKéMON en lieu sûr. Vous\p"
+	.string "pourrez alors choisir parmi notre\n"
+	.string "sélection de POKéMON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Merci d'avoir concouru !\n"
+	.string "Laissez-nous restaurer votre\p"
+	.string "POKéMON !$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "Le 2ème match est le suivant !\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "Le 3ème match est le suivant !\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "Le 4ème match est le suivant !\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "Le 5ème match est le suivant !\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "Le 6ème match est le suivant !\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "Enfin, le 7ème match est le suivant\n"
+	.string "! Êtes-vous prêt ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Souhaitez-vous sauvegarder et\n"
+	.string "quitter le jeu ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "Souhaitez-vous vous retirer de\n"
+	.string "votre défi Battle Swap ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "J'ai mené une petite enquête sur\n"
+	.string "votre prochain adversaire.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "compétent dans les manipulations de\p"
+	.string "type NORMAL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "FIRE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "compétent dans la manipulation du\p"
+	.string "type EAU.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "compétent dans la manipulation du\p"
+	.string "type ÉLECTRIQUE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "GRASS.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans la manipulation du\p"
+	.string "type ICE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "L'DRESSEUR est apparemment habile\n"
+	.string "dans le maniement du type COMBAT.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans la manipulation du\p"
+	.string "type POISON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans les manipulations de\p"
+	.string "type GROUND.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "FLYING.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "habile dans le maniement du type\p"
+	.string "PSYCHIQUE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "compétent dans la gestion du type\p"
+	.string "BUG.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "Le DRESSEUR est apparemment habile\n"
+	.string "dans le maniement du type ROCK.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "GHOST.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "DRAGON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans le maniement du type\p"
+	.string "DARK.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "Le DRESSEUR est apparemment\n"
+	.string "compétent dans la manipulation du\p"
+	.string "type ACIER.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "Le DRESSEUR ne semble pas avoir de\n"
+	.string "favoris clairs en matière de type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "Le style de combat préféré semble\n"
+	.string "être lent et régulier.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "Le style de combat préféré semble\n"
+	.string "être celui de l'endurance.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "Le style de combat préféré semble\n"
+	.string "être celui à haut risque et à haut\p"
+	.string "rendement.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "Le style de combat préféré semble\n"
+	.string "dépendre du déroulement de la\p"
+	.string "bataille.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "Le style de combat préféré semble\n"
+	.string "être celui basé sur une préparation\p"
+	.string "totale.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "Le style de combat préféré semble\n"
+	.string "commencer par affaiblir l'ennemi.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "Le style de combat préféré semble\n"
+	.string "s'adapter avec souplesse à la\p"
+	.string "situation.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "Le style de combat préféré semble\n"
+	.string "impossible à prédire.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "Le style de combat préféré semble\n"
+	.string "être libre d'esprit et sans\p"
+	.string "retenue.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Avant de commencer la bataille,\n"
+	.string "souhaitez-vous échanger un POKéMON\p"
+	.string "?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Merci! Votre échange POKéMON est\n"
+	.string "terminé.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "Par ici, s'il vous plaît !$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Je sauvegarde vos données. Veuillez\n"
+	.string "patienter.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Souhaitez-vous enregistrer votre\n"
+	.string "dernière bataille sur votre\p"
+	.string "FRONTIER PASS ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "Excusez-moi! Excusez-moi, s'il vous\n"
+	.string "plaît! Puis-je vous faire attendre\p"
+	.string "quelques instants ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "… Euh-hein ? Quoi?! … Waouh !\n"
+	.string "Compris, monsieur ! Fera l'affaire\p"
+	.string "!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "Oh, mon… Désolé de vous faire\n"
+	.string "attendre ! J'ai un message du\p"
+	.string "patron de cette installation, le\n"
+	.string "CHEF D'USINE. Il dit : “ Nous\p"
+	.string "allons le faire ! Viens ici\n"
+	.string "maintenant!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "Le CHEF D'USINE vous exige.\n"
+	.string "Êtes-vous prêt à lui faire face ?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Je suis terriblement désolé, mais\n"
+	.string "je ne peux rien vous dire sur le\p"
+	.string "FACTORY HEAD.$"

@@ -91,57 +91,57 @@ PacifidlogTown_House2_EventScript_UnhappyAzurill::
 	end
 
 PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation:
-	.string "Er-hem!\p"
-	.string "I am the POKéMON FAN CLUB's most\n"
-	.string "important person, the CHAIRMAN's\l"
-	.string "younger brother.\p"
-	.string "I'm here enjoying my vacation with\n"
-	.string "POKéMON, yes, indeed.$"
+	.string "Euh-hem ! Je suis la personne la\n"
+	.string "plus importante du POKéMON FAN\p"
+	.string "CLUB, le frère cadet du PRÉSIDENT.\n"
+	.string "Je suis ici pour profiter de mes\p"
+	.string "vacances avec POKéMON, oui,\n"
+	.string "effectivement.$"
 
 PacifidlogTown_House2_Text_AhYourPokemon:
-	.string "Ah!\n"
-	.string "Your POKéMON…$"
+	.string "Ah ! Votre POKéMON…$"
 
 PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
-	.string "It clearly likes you very much.\p"
-	.string "A POKéMON that adoring and adorable\n"
-	.string "deserves a TM like this, no?$"
+	.string "Il est clair que vous lui plaisez\n"
+	.string "beaucoup. Un POKéMON adorant et\p"
+	.string "adorable mérite une MT comme\n"
+	.string "celle-ci, non ?$"
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Hmm… Ce n'est pas mal, mais ce\n"
+	.string "n'est pas bon non plus. En tant que\p"
+	.string "FORMATTHIEUEUR, vous devez faire\n"
+	.string "davantage d'efforts.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
-	.string "It has a vicious look to it.\p"
-	.string "A frightening POKéMON like that\n"
-	.string "deserves a TM like this.$"
+	.string "Il a un air vicieux. Un POKéMON\n"
+	.string "effrayant comme celui-là mérite une\p"
+	.string "MT comme celle-ci.$"
 
 PacifidlogTown_House2_Text_ExplainReturnFrustration:
-	.string "If a POKéMON likes you a lot, RETURN's\n"
-	.string "power is enhanced.\p"
-	.string "If it doesn't like you, FRUSTRATION's\n"
-	.string "power goes up.$"
+	.string "Si un POKéMON vous aime beaucoup,\n"
+	.string "la puissance de RGUIDOOUR est\p"
+	.string "renforcée. S'il ne vous aime pas,\n"
+	.string "le pouvoir de FRUSTRATION\p"
+	.string "augmente.$"
 
 PacifidlogTown_House2_Text_GetGoodTMInXDays:
-	.string "Oh, yes. In about {STR_VAR_1} or so days,\n"
-	.string "I should be getting a good TM or two.\p"
-	.string "You should come see me then.\n"
-	.string "I'll give you a TM that's suitable for\l"
-	.string "your POKéMON.$"
+	.string "Oh oui. Dans environ {STR_VAR_1} jours\n"
+	.string "environ, je devrais recevoir une ou\p"
+	.string "deux bonnes MT. Tu devrais venir me\n"
+	.string "voir alors. Je vais vous donner une\p"
+	.string "MT adaptée à votre POKéMON.$"
 
 PacifidlogTown_House2_Text_Rurii:
-	.string "AZURILL: Rurii.$"
+	.string "AZURILLE : Rurii.$"
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
-	.string "It appears to be very friendly with the\n"
-	.string "TRAINER.$"
+	.string "Il semble être très amical avec le\n"
+	.string "FORMATTHIEUEUR.$"
 
 PacifidlogTown_House2_Text_Rururi:
-	.string "AZURILL: Rururi!$"
+	.string "AZURILL : C’est vrai !$"
 
 PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
-	.string "It doesn't appear to like the TRAINER\n"
-	.string "very much.$"
-
+	.string "Il ne semble pas beaucoup aimer le\n"
+	.string "DRESSEUR.$"

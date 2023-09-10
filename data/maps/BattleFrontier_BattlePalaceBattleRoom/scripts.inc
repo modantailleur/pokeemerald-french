@@ -448,134 +448,141 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Excellent… Laissez-moi restaurer\n"
+	.string "votre POKéMON.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 2ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 3ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "The 4th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 4ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "The 5th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 5ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "The 6th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 6ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "The 7th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Le 7ème adversaire est le suivant.\n"
+	.string "Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Souhaitez-vous sauvegarder et\n"
+	.string "quitter le jeu ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+	.string "Souhaitez-vous quitter votre défi\n"
+	.string "?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Sauvegarde des données. Soyez\n"
+	.string "patient…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-	.string "Do you wish to record your latest\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Souhaitez-vous enregistrer votre\n"
+	.string "dernier match sur votre FRONTIER\p"
+	.string "PASS?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-	.string "And now…\p"
-	.string "By winning consistently, you have\n"
-	.string "earned the privilege of challenging\l"
-	.string "our master, the PALACE MAVEN…$"
+	.string "Et maintenant… En gagnant\n"
+	.string "régulièrement, vous avez gagné le\p"
+	.string "privilège de défier notre maître,\n"
+	.string "le PALACE MAVEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-	.string "Are you ready?$"
+	.string "Je vais faire venir le PALACE\n"
+	.string "MAVEN. Êtes-vous prêt ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Let great fanfare announce the arrival\n"
-	.string "of the PALACE MAVEN, SPENSER!$"
+	.string "Que c'est en grande pompe qu'ils\n"
+	.string "annoncent l'arrivée du PALACE\p"
+	.string "MAVEN, ESTEBAN!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
-	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
-	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
-	.string "Can you believe them through\n"
-	.string "and through?\p"
-	.string "If your bonds of trust are frail,\n"
-	.string "you will never beat my brethren!$"
+	.string "ESTEBAN : Mon être physique est\n"
+	.string "toujours avec POKéMON ! Mon cœur\p"
+	.string "bat toujours comme un seul avec\n"
+	.string "POKéMON ! Jeune d'un FORMATTHIEUEUR\p"
+	.string "! Croyez-vous en votre POKéMON ?\n"
+	.string "Pouvez-vous les croire jusqu’au\p"
+	.string "bout ? Si vos liens de confiance\n"
+	.string "sont fragiles, vous ne battrez\p"
+	.string "jamais mes frères !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
+	.string "Le lien que vous partagez avec\n"
+	.string "votre POKéMON ! Prouve-le-moi ici\p"
+	.string "!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SPENSER: Gwahahah!\p"
-	.string "Hah, you never fell for my bluster!\n"
-	.string "Sorry for trying that stunt!\p"
-	.string "Here!\n"
-	.string "Bring me the thing!$"
+	.string "ESTEBAN : Wahahaha ! Hé, tu n'es\n"
+	.string "jamais tombé amoureux de mon\p"
+	.string "ampoule ! Désolé d'avoir tenté\n"
+	.string "cette cascade ! Ici! Apportez-moi\p"
+	.string "le truc !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "My, my, if only you could maintain that\n"
-	.string "facade of distinguished authority…\p"
-	.string "Here!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Mon Dieu, mon Dieu, si seulement\n"
+	.string "vous pouviez maintenir cette façade\p"
+	.string "d'autorité distinguée… Ici ! Voyons\n"
+	.string "votre PASS FRONTIÈRE !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "The Spirits Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Le symbole des esprits était gravé\n"
+	.string "sur le FRONTIER PASS !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
-	.string "truly clear and unclouded.\p"
-	.string "I will eagerly await the next\n"
-	.string "opportunity to see you.$"
+	.string "ESTEBAN : Les yeux de votre POKéMON\n"
+	.string "sont vraiment clairs et sans\p"
+	.string "nuages. J'attendrai avec impatience\n"
+	.string "la prochaine occasion de vous\p"
+	.string "voir.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
-	.string "You've battled your way up again?\p"
-	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
-	.string "So be it!\p"
-	.string "This time, I won't bluster or hold back.\n"
-	.string "This time, there's no fooling around.\p"
-	.string "Ready now?\n"
-	.string "Prepare to lose!$"
+	.string "ESTEBAN : Wahahah ! Vous avez\n"
+	.string "encore lutté pour gravir les\p"
+	.string "échelons ? Vous devez avoir\n"
+	.string "développé un lien vraiment\p"
+	.string "redoutable avec votre POKéMON.\n"
+	.string "Ainsi soit-il! Cette fois, je ne\p"
+	.string "vais pas fanfaronner ni me retenir.\n"
+	.string "Cette fois-ci, il n'y a pas de quoi\p"
+	.string "s'amuser. Prêt maintenant?\n"
+	.string "Préparez-vous à perdre !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
-	.string "… … …Kaaah!$"
+	.string "… … …Kaaaah !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
-	.string "Even fully unleashed, my brethren\l"
-	.string "could not overpower you.\p"
-	.string "Your team spirit is truly admirable!\p"
-	.string "Here!\n"
-	.string "Bring me that thing, will you?$"
+	.string "ESTEBAN : Eh bien, c'était une\n"
+	.string "démonstration ! Même complètement\p"
+	.string "déchaînés, mes frères n’ont pas pu\n"
+	.string "vous maîtriser. Votre esprit\p"
+	.string "d’équipe est vraiment admirable !\n"
+	.string "Ici! Apportez-moi ce truc,\p"
+	.string "voulez-vous ?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "My, my, if only you could maintain\n"
-	.string "a certain level of decorum…\p"
-	.string "Gaaah, here!\n"
-	.string "Hurry with that FRONTIER PASS, you!$"
+	.string "Mon Dieu, si seulement vous pouviez\n"
+	.string "maintenir un certain niveau de\p"
+	.string "décorum… Gaaah, voilà !\n"
+	.string "Dépêchez-vous avec ce FRONTIER\p"
+	.string "PASS, vous !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "The Spirits Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Le symbole des esprits a pris un\n"
+	.string "éclat doré !$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SPENSER: Gwahahah!\p"
-	.string "Come see me time and again!\n"
-	.string "My brethren and I will be waiting!$"
+	.string "ESTEBAN : Wahahah ! Venez me voir\n"
+	.string "encore et encore ! Mes frères et\p"
+	.string "moi attendrons !$"
