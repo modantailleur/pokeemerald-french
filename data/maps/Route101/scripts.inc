@@ -290,10 +290,10 @@ Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "ROSYERES juste à côté.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON vous sautera dessus\n"
-	.string "dans les herbes hautes. Si vous\p"
-	.string "voulez attraper POKéMON, vous devez\n"
-	.string "aller dans les hautes herbes et\p"
+	.string "Les POKéMON sauvages vont te sauter\n"
+	.string "dessus dans les hautes herbes.\p"
+	.string "Pour attraper des POKéMON,\n"
+	.string "tu dois aller dans les hautes herbes et\p"
 	.string "chercher.$"
 
 Route101_Text_RouteSign:
