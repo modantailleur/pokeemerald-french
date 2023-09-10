@@ -168,19 +168,19 @@ def replace_translation_mistakes(fr_text):
     new_fr_text = fr_text
     # Replace character names
     for eng_name, fr_name in characters_dict.items():
-        new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        # new_fr_text = new_fr_text.replace(eng_name, fr_name)
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
     for eng_name, fr_name in characters_translation_dict.items():
-        new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        # new_fr_text = new_fr_text.replace(eng_name, fr_name)
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
 
     # Replace place names
     for eng_name, fr_name in places_dict.items():
-        new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        # new_fr_text = new_fr_text.replace(eng_name, fr_name)
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
     for eng_name, fr_name in places_translation_dict.items():
-        new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
-        # new_fr_text = new_fr_text.replace(eng_name, fr_name)
+        # new_fr_text = re.compile(re.escape(eng_name), re.IGNORECASE).sub(fr_name, new_fr_text)
+        new_fr_text = new_fr_text.replace(eng_name, fr_name)
 
     # Replace pokemon vocabulary names
     for eng_name, fr_name in pokevocab_dict.items():
