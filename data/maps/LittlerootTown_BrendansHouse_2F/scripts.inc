@@ -273,18 +273,18 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "L'horloge est arrêtée… Mieux vaut\n"
-	.string "la régler et la démarrer !$"
+	.string "L'horloge est arrêtée…\n"
+	.string "Il vaudrait mieux la mettre à l'heure!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 	.string "MAMAN : {PLAYER}, que penses-tu de ta\n"
 	.string "nouvelle chambre ? Bien! Tout est\p"
 	.string "bien rangé ! Ils ont également fini\n"
-	.string "de tout déplacer en bas. Les\p"
-	.string "déménageurs POKéMON sont si\n"
+	.string "de tout mettre en place en bas. Ces\p"
+	.string "déménageurs sont vraiment très\n"
 	.string "pratiques ! Oh, tu devrais\p"
-	.string "t'assurer que tout est là sur ton\n"
-	.string "bureau.$"
+	.string "t'assurer que tes affaires se trouvent\n"
+	.string "bien sur ton bureau.$"
 
 PlayersHouse_2F_Text_Notebook:
 	.string "{PLAYER} a ouvert le cahier. RÈGLE\n"

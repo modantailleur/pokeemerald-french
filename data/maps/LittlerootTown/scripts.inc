@@ -914,13 +914,13 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "chérie ! Ça doit être fatiguant de\p"
 	.string "rouler avec nos affaires dans le\n"
 	.string "camion de déménagement. Eh bien,\p"
-	.string "c'est Littleroot Town. Comment\n"
-	.string "l'aimez-vous? C'est notre nouvelle\p"
+	.string "c'est BOURG-EN-VOL. Tu trouves\n"
+	.string "ça comment? C'est notre nouvelle\p"
 	.string "maison ! Il y a une atmosphère\n"
 	.string "pittoresque, mais cela semble être\p"
 	.string "un endroit facile à vivre, n'est-ce\n"
-	.string "pas ? Et vous obtenez votre propre\p"
-	.string "chambre, {PLAYER} ! Entrons à\n"
+	.string "pas ? Et tu as ta propre\p"
+	.string "chambre, {PLAYER} ! Allons à\n"
 	.string "l'intérieur.$"
 
 LittlerootTown_Text_WaitPlayer:
