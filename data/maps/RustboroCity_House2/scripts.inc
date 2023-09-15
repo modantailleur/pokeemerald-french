@@ -10,7 +10,7 @@ RustboroCity_House2_EventScript_LittleGirl::
 	end
 
 RustboroCity_House2_Text_TrainerSchoolExcellent:
-	.string "L'ÉCOLE DES FORMATTHIEUEURS est\n"
+	.string "L'ÉCOLE DES DRESSEURS est\n"
 	.string "excellente. Si vous y étudiez, vous\p"
 	.string "pourriez même devenir GYM LEADER.$"
 

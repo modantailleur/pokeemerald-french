@@ -1025,7 +1025,7 @@ Route104_Text_OnlyThrowBallAtWildPokemon:
 
 Route104_Text_ImNotATrainer:
 	.string "Oh non, je ne suis pas un\n"
-	.string "FORMATTHIEUEUR. Mais c'est vrai, si\p"
+	.string "DRESSEUR. Mais c'est vrai, si\p"
 	.string "les DRESSEURS croisent les yeux,\n"
 	.string "c'est un défi à relever. Si vous ne\p"
 	.string "voulez pas vous battre, restez hors\n"
@@ -1173,7 +1173,7 @@ Route104_Text_BrendanLetsBattle:
 
 Route104_Text_BrendanIntro:
 	.string "BRICE : Je sais que tu viens de\n"
-	.string "devenir FORMATTHIEUEUR, mais je ne\p"
+	.string "devenir DRESSEUR, mais je ne\p"
 	.string "vais pas y aller doucement !$"
 
 Route104_Text_BrendanDefeat:

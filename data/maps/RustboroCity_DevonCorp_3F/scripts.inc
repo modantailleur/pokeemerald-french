@@ -229,7 +229,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
 	.string "POKéMON NAVIGATOR, ou POKéNAV en\p"
 	.string "abrégé. C'est un outil\n"
 	.string "indispensable pour tout\p"
-	.string "FORMATTHIEUEUR en aventure. Il\n"
+	.string "DRESSEUR en aventure. Il\n"
 	.string "comporte une carte de la région\p"
 	.string "HOENN. Vous pouvez facilement\n"
 	.string "vérifier les emplacements de\p"
@@ -253,7 +253,7 @@ RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter:
 	.string "LGUIDOTRE ? Merci de bien vouloir!\p"
 	.string "C'est ma façon de vous remercier.\n"
 	.string "Cela devrait vous aider, un\p"
-	.string "FORMATTHIEUEUR.$"
+	.string "DRESSEUR.$"
 
 RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
 	.string "M. PIERRE : Un POKéMON contenant\n"
@@ -270,7 +270,7 @@ RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "conséquent, je ne connais pas les\n"
 	.string "tendances et ce genre de choses.\p"
 	.string "Mais est-ce que les jeunes veulent\n"
-	.string "tous devenir FORMATTHIEUEURS dans\p"
+	.string "tous devenir DRESSEURS dans\p"
 	.string "la LIGUE POKéMON ?$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:

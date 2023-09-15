@@ -424,7 +424,7 @@ DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "Je vois votre talent devenir une\n"
 	.string "vague géante pour provoquer un jour\p"
 	.string "une tempête d'étonnement parmi les\n"
-	.string "FORMATTHIEUEURS !$"
+	.string "DRESSEURS !$"
 
 DewfordTown_Gym_Text_GymStatue:
 	.string "GYM POKéMON DE LA VILLAGE MYOKARA$"

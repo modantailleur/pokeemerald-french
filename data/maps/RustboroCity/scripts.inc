@@ -1129,7 +1129,7 @@ RustboroCity_Text_YouGotItThankYou:
 	.string "Oh! Comment c'était? Les\n"
 	.string "MARCHANDISES DU DEVON ? Tu l'as\p"
 	.string "fait! Vous les avez récupérés ! Tu\n"
-	.string "es vraiment un super FORMATTHIEUEUR\p"
+	.string "es vraiment un super DRESSEUR\p"
 	.string "! Je sais! En guise de\n"
 	.string "remerciement, je vous offrirai une\p"
 	.string "autre GRANDE BALLE !$"
@@ -1226,7 +1226,7 @@ RustboroCity_Text_BrendanWantToBattle:
 
 RustboroCity_Text_BrendanIWontGoEasy:
 	.string "BRICE : Je sais que tu viens de\n"
-	.string "devenir FORMATTHIEUEUR, mais je ne\p"
+	.string "devenir DRESSEUR, mais je ne\p"
 	.string "vais pas y aller doucement !$"
 
 RustboroCity_Text_BrendanDefeat:

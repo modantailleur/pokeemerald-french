@@ -12,7 +12,7 @@ VerdanturfTown_House_EventScript_Woman2::
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
 	.string "Au loin, au cœur d'ETERNARA, se\n"
 	.string "trouve la LIGUE POKéMON. Les\p"
-	.string "FORMATTHIEUEURS qui s'y rassemblent\n"
+	.string "DRESSEURS qui s'y rassemblent\n"
 	.string "sont tous terriblement compétents.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:

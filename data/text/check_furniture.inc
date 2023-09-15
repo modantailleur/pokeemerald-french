@@ -5,10 +5,10 @@ Text_BookShelf:
 	.string "It's filled with all sorts of books.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magazines!\n"
-	.string "POKéMON PAL…\p"
-	.string "POKéMON HANDBOOK…\n"
-	.string "ADORABLE POKéMON…$"
+	.string "Des magazines POKéMON!\n"
+	.string "NOS AMIS LES POKéMON…\p"
+	.string "MANUEL POKéMON…\n"
+	.string "GRAINE DE POKéMON…$"
 
 Text_Vase:
 	.string "This vase looks expensive…\n"

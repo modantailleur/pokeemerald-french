@@ -146,7 +146,7 @@ SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 	.string "C'est vraiment évident, mais votre\n"
-	.string "force en tant que FORMATTHIEUEUR\p"
+	.string "force en tant que DRESSEUR\p"
 	.string "n'a rien à voir avec votre âge ou\n"
 	.string "votre jeunesse.$"
 

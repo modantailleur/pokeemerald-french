@@ -494,14 +494,14 @@ BattleFrontier_ReceptionGate_Text_LearnAboutWhich1:
 
 BattleFrontier_ReceptionGate_Text_SymbolsInfo:
 	.string "Il y a sept installations au ZONE\n"
-	.string "DE COMBAT. LES FORMATTHIEUEURS dont\p"
+	.string "DE COMBAT. LES DRESSEURS dont\p"
 	.string "les capacités sont reconnues\n"
 	.string "peuvent être récompensés par des\p"
 	.string "symboles de chacune des\n"
 	.string "installations. Pour gagner un\p"
-	.string "symbole, les FORMATTHIEUEURS\n"
+	.string "symbole, les DRESSEURS\n"
 	.string "devront peut-être vaincre d'autres\p"
-	.string "FORMATTHIEUEURS d'affilée et\n"
+	.string "DRESSEURS d'affilée et\n"
 	.string "devront peut-être remporter des\p"
 	.string "événements à plusieurs reprises. Ce\n"
 	.string "n'est certainement pas facile de\p"

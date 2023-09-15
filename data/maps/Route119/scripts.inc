@@ -562,7 +562,7 @@ Route119_Text_ScottYouWonAtFortreeGym:
 	.string "Comme je le pensais, tu as gagné au\n"
 	.string "FORTREE GYM. Votre force… Peut-être\p"
 	.string "êtes-vous vraiment le\n"
-	.string "FORMATTHIEUEUR que je cherchais.\p"
+	.string "DRESSEUR que je cherchais.\p"
 	.string "N'oubliez pas que vous avez un fan\n"
 	.string "en moi. J'encouragerai depuis le\p"
 	.string "banc de touche. Continuez ce bon\n"
@@ -609,7 +609,7 @@ Route119_Text_WeatherInstitute:
 	.string "INSTITUT MÉTÉO$"
 
 Route119_Text_TrainerTipsDecoration:
-	.string "CONSEILS DU FORMATTHIEUEUR Jusqu'à\n"
+	.string "CONSEILS DU DRESSEUR Jusqu'à\n"
 	.string "seize décorations et meubles\p"
 	.string "peuvent être placés dans une BASE\n"
 	.string "SECRGUIDOE. Choisissez vos articles\p"

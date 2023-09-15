@@ -977,7 +977,7 @@ BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
 	.string "Voici quelques RUBANS pour battre\n"
-	.string "sept FORMATTHIEUEURS coriaces\p"
+	.string "sept DRESSEURS coriaces\p"
 	.string "d'affilée. {PLAYER} a reçu des RUBANS\n"
 	.string "!$"
 
@@ -1170,7 +1170,7 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis:
 	.string "seras prêt.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
-	.string "Où les talents des FORMATTHIEUEURS\n"
+	.string "Où les talents des DRESSEURS\n"
 	.string "sont mis à l'épreuve ! Bienvenue\p"
 	.string "dans la TOUR DE BATAILLE ! Je suis\n"
 	.string "votre guide des SALLES DE COMBAT\p"
@@ -1204,7 +1204,7 @@ BattleFrontier_BattleTowerLobby_Text_SelectThreeMons:
 	.string "les trois POKéMON à saisir.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
-	.string "Où les talents des FORMATTHIEUEURS\n"
+	.string "Où les talents des DRESSEURS\n"
 	.string "sont mis à l'épreuve ! Bienvenue\p"
 	.string "dans la TOUR DE BATAILLE ! Je suis\n"
 	.string "votre guide des SALLES DE COMBAT\p"
@@ -1237,7 +1237,7 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons:
 	.string "les quatre POKéMON à saisir.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
-	.string "Où les talents des FORMATTHIEUEURS\n"
+	.string "Où les talents des DRESSEURS\n"
 	.string "sont mis à l'épreuve ! Bienvenue\p"
 	.string "dans la TOUR DE BATAILLE ! Je suis\n"
 	.string "votre guide des SALLES DE COMBAT\p"
@@ -1281,7 +1281,7 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons:
 	.string "saisis.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
-	.string "Où les talents des FORMATTHIEUEURS\n"
+	.string "Où les talents des DRESSEURS\n"
 	.string "sont mis à l'épreuve ! Bienvenue\p"
 	.string "dans la TOUR DE BATAILLE ! Je suis\n"
 	.string "votre guide pour les LINK MULTI\p"
@@ -1378,7 +1378,7 @@ BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
 	.string "Toutes nos félicitations! Vous avez\n"
 	.string "vaincu la SALON MAIDEN et balayé\p"
-	.string "sept FORMATTHIEUEURS !$"
+	.string "sept DRESSEURS !$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "En reconnaissance de votre talent\n"

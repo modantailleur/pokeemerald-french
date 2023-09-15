@@ -575,11 +575,11 @@ LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
 	.string "vraiment fort, n'est-ce pas ? Ici,\p"
 	.string "nous discutons toujours pour savoir\n"
 	.string "qui est le plus fort de tous les\p"
-	.string "FORMATTHIEUEURS. Alors quand j'ai\n"
+	.string "DRESSEURS. Alors quand j'ai\n"
 	.string "entendu parler de toi, j'ai décidé\p"
 	.string "d'être ta fan ! J'espère que vous\n"
 	.string "continuerez à vous battre contre\p"
-	.string "d'autres FORMATTHIEUEURS coriaces.\n"
+	.string "d'autres DRESSEURS coriaces.\n"
 	.string "De cette façon, nous pourrons voir\p"
 	.string "davantage de vos batailles\n"
 	.string "brûlantes. Cela permettra aux\p"
@@ -613,7 +613,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen:
 
 LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
 	.string "J'ai entendu des choses à propos\n"
-	.string "d'un nouveau FORMATTHIEUEUR\p"
+	.string "d'un nouveau DRESSEUR\p"
 	.string "coriace. Cet DRESSEUR est même\n"
 	.string "censé battre les GYM LEADERS.\p"
 	.string "Savez-vous quelque chose sur ce\n"
@@ -681,7 +681,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
 	.string "de grands fans des combats POKéMON.\p"
 	.string "Nous discutons de qui nous\n"
 	.string "considérons comme le plus fort de\p"
-	.string "tous les FORMATTHIEUEURS. Si vous\n"
+	.string "tous les DRESSEURS. Si vous\n"
 	.string "deviez devenir célèbre, nous\p"
 	.string "pourrions même devenir vos fans !$"
 
@@ -773,7 +773,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "prochaine bataille !$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout:
-	.string "Parmi les FORMATTHIEUEURS récemment\n"
+	.string "Parmi les DRESSEURS récemment\n"
 	.string "en vogue, {STR_VAR_1} se démarque. Cette\p"
 	.string "dureté, ce n’est tout simplement\n"
 	.string "pas normal. Tout va bien, mais vous\p"

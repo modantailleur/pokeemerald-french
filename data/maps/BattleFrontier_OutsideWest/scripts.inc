@@ -380,7 +380,7 @@ BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
 	.string "Ce n'est pas comme si n'importe qui\n"
 	.string "pouvait venir ici, tu sais ? Seuls\p"
-	.string "les FORMATTHIEUEURS reconnus comme\n"
+	.string "les DRESSEURS reconnus comme\n"
 	.string "durs sont amenés ici. C'est\p"
 	.string "pourquoi de nombreux DRESSEURS ne\n"
 	.string "connaissent même pas ZONE DE\p"
@@ -509,7 +509,7 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
 	.string "Ces gens qui se chamaillent là-bas…\n"
 	.string "C'est difficile à croire, mais ils\p"
 	.string "étaient autrefois des\n"
-	.string "FORMATTHIEUEURS, et de bons aussi.\p"
+	.string "DRESSEURS, et de bons aussi.\p"
 	.string "Ils étaient incroyablement durs et\n"
 	.string "ils étaient aussi célèbres. Mais\p"
 	.string "ils ont été anéantis par ce certain\n"

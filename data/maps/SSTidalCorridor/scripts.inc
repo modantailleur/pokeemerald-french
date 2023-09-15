@@ -307,7 +307,7 @@ SSTidalCorridor_Text_WeveArrived:
 
 SSTidalCorridor_Text_VisitOtherCabins:
 	.string "Allez visiter d'autres cabanes. LES\n"
-	.string "FORMATTHIEUEURS qui s'ennuient du\p"
+	.string "DRESSEURS qui s'ennuient du\p"
 	.string "voyage en bateau auront hâte de se\n"
 	.string "battre.$"
 

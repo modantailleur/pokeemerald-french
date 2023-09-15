@@ -16,7 +16,7 @@ BattleFrontier_Lounge4_EventScript_Man::
 BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
 	.string "Je me demande s'ils vont diffuser\n"
 	.string "des interviews avec des\p"
-	.string "FORMATTHIEUEURS coriaces\n"
+	.string "DRESSEURS coriaces\n"
 	.string "aujourd'hui ?$"
 
 BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:

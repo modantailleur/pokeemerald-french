@@ -232,7 +232,7 @@ LavaridgeTown_Gym_B1F_Text_KeeganIntro:
 	.string "sable chaud, n'est-ce pas ? Mais\n"
 	.string "sachez que maintenir votre volonté\p"
 	.string "est une capacité importante pour\n"
-	.string "tous les FORMATTHIEUEURS.$"
+	.string "tous les DRESSEURS.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 	.string "Jouez avec le feu et soyez brûlé…$"
@@ -265,7 +265,7 @@ LavaridgeTown_Gym_1F_Text_DanielleDefeat:
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
 	.string "Je vais être une jolie et forte\n"
-	.string "FORMATTHIEUEUR tout comme ADRIANE.$"
+	.string "DRESSEUR tout comme ADRIANE.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
 	.string "Allez, vas-y ! Allons-y avant que\n"

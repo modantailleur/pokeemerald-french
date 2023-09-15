@@ -190,7 +190,7 @@ SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
 	.string "Ouais ! Vous avez même battu JUAN,\n"
 	.string "qui était censé être le meilleur de\p"
 	.string "tout HOENN ! D'accord! Consultez\n"
-	.string "votre CARTE DE FORMATTHIEUEUR. Si\p"
+	.string "votre CARTE DE DRESSEUR. Si\p"
 	.string "vous avez obtenu tous les BADGES,\n"
 	.string "vous êtes prêt à relever le défi\p"
 	.string "POKéMON LEAGUE !$"
@@ -259,7 +259,7 @@ SootopolisCity_Gym_1F_Text_RegisteredJuan:
 	.string "POKéNAV.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
-	.string "Les FORMATTHIEUEURS qui ont\n"
+	.string "Les DRESSEURS qui ont\n"
 	.string "rassemblé tous les GYM BADGES de\p"
 	.string "HOENN devraient se diriger vers la\n"
 	.string "destination ultime. La LIGUE\p"

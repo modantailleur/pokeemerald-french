@@ -338,7 +338,7 @@ FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
 	.string "gens avec… Comment devrais-je dire\n"
 	.string "ça ? Quelqu’un débordant d’envie et\p"
 	.string "d’envie de gagner. S'il existait un\n"
-	.string "FORMATTHIEUEUR comme celui-là, je\p"
+	.string "DRESSEUR comme celui-là, je\p"
 	.string "le ferais immédiatement… Oups ! Pas\n"
 	.string "grave! Continuez à y travailler !$"
 

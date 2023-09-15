@@ -511,7 +511,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
 	.string "ESTEBAN : Mon être physique est\n"
 	.string "toujours avec POKéMON ! Mon cœur\p"
 	.string "bat toujours comme un seul avec\n"
-	.string "POKéMON ! Jeune d'un FORMATTHIEUEUR\p"
+	.string "POKéMON ! Jeune d'un DRESSEUR\p"
 	.string "! Croyez-vous en votre POKéMON ?\n"
 	.string "Pouvez-vous les croire jusqu’au\p"
 	.string "bout ? Si vos liens de confiance\n"

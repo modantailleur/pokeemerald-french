@@ -382,5 +382,5 @@ VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
 VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly:
 	.string "SCOTT : Je viens ici régulièrement\n"
 	.string "dans l'espoir de voir des\p"
-	.string "FORMATTHIEUEURS coriaces en action\n"
+	.string "DRESSEURS coriaces en action\n"
 	.string "quelle que soit la situation.$"

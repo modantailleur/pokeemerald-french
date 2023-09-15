@@ -110,7 +110,7 @@ PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
 	.string "Hmm… Ce n'est pas mal, mais ce\n"
 	.string "n'est pas bon non plus. En tant que\p"
-	.string "FORMATTHIEUEUR, vous devez faire\n"
+	.string "DRESSEUR, vous devez faire\n"
 	.string "davantage d'efforts.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
@@ -137,7 +137,7 @@ PacifidlogTown_House2_Text_Rurii:
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
 	.string "Il semble être très amical avec le\n"
-	.string "FORMATTHIEUEUR.$"
+	.string "DRESSEUR.$"
 
 PacifidlogTown_House2_Text_Rururi:
 	.string "AZURILL : C’est vrai !$"

@@ -118,7 +118,7 @@ BattleFrontier_Lounge2_Text_FrontierManiacIntro::
 	.string "COMBAT, je suis non. 1. Vous pouvez\n"
 	.string "me considérer comme le FRONTIER\p"
 	.string "MANIAC. Je vérifie, mais vous êtes\n"
-	.string "un FORMATTHIEUEUR, n'est-ce pas ?\p"
+	.string "un DRESSEUR, n'est-ce pas ?\p"
 	.string "Je partagerai avec plaisir les\n"
 	.string "nouvelles les plus chaudes que j'ai\p"
 	.string "recueillies sur ZONE DE COMBAT.$"
@@ -146,7 +146,7 @@ BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "ce mystérieux DRESSEUR appelé SALON\n"
 	.string "MAIDEN qui dirige les lieux.$"
@@ -173,7 +173,7 @@ BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
 BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "ce flamboyant DRESSEUR appelé le\n"
 	.string "DOME ACE qui gère les lieux.$"
@@ -200,7 +200,7 @@ BattleFrontier_Lounge2_Text_DomeAceGoldMons::
 BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "cet DRESSEUR bizarre appelé FACTORY\n"
 	.string "HEAD qui dirige l'endroit.$"
@@ -225,7 +225,7 @@ BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
 BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "cet effrayant DRESSEUR appelé PIKE\n"
 	.string "QUEEN qui gère les lieux.$"
@@ -253,7 +253,7 @@ BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
 BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "ce mignon DRESSEUR appelé ARENA\n"
 	.string "TYCOON qui gère les lieux.$"
@@ -281,7 +281,7 @@ BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
 BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "ce sinistre DRESSEUR appelé PALACE\n"
 	.string "MAVEN qui dirige les lieux.$"
@@ -308,7 +308,7 @@ BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
 BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "Je parie que vous ne le saviez pas\n"
 	.string "! L'un de ces meilleurs\p"
-	.string "FORMATTHIEUEURS que SCOTT appelle\n"
+	.string "DRESSEURS que SCOTT appelle\n"
 	.string "les FRONTIER BRAINS est là. C'est\p"
 	.string "cet DRESSEUR enflammé appelé\n"
 	.string "PYRAMID KING qui dirige les lieux.$"

@@ -106,7 +106,7 @@ RustboroCity_Gym_EventScript_RegisterRoxanne::
 RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, comment ça va ? Écoute, mon ami\n"
 	.string "! Souhaitez-vous devenir CHAMPION ?\p"
-	.string "Je ne suis pas un FORMATTHIEUEUR,\n"
+	.string "Je ne suis pas un DRESSEUR,\n"
 	.string "pas moi, mais je peux certainement\p"
 	.string "vous donner des conseils gagnants.\n"
 	.string "C'est réglé, alors ! Nous viserons\p"
@@ -131,7 +131,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "époustouflante ! Mes encouragements\p"
 	.string "ont dû fonctionner ! Super!\n"
 	.string "Vérifiez votre CARTE DE\p"
-	.string "FORMATTHIEUEUR. Le BADGE DE PIERRE\n"
+	.string "DRESSEUR. Le BADGE DE PIERRE\n"
 	.string "que vous avez obtenu doit être\p"
 	.string "correctement enregistré dessus. En\n"
 	.string "d'autres termes… Vous avez gravi la\p"
@@ -231,7 +231,7 @@ RustboroCity_Gym_Text_RoxannePostBattle:
 	.string "Puisque vous êtes si fort, vous\n"
 	.string "devriez défier les autres LEADERS\p"
 	.string "DE GYM. En affrontant de nombreux\n"
-	.string "FORMATTHIEUEURS, vous devriez\p"
+	.string "DRESSEURS, vous devriez\p"
 	.string "apprendre beaucoup de choses.$"
 
 RustboroCity_Gym_Text_GymStatue:
@@ -246,7 +246,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string ": Oh, bonjour, {PLAYER} ? Ici ROXANNE\p"
 	.string "de MEROUVILLE. BASTIEN m'a dit que\n"
 	.string "vous gravissez les échelons des\p"
-	.string "FORMATTHIEUEURS à un rythme\n"
+	.string "DRESSEURS à un rythme\n"
 	.string "incroyable. Eh bien, je préfère ne\p"
 	.string "pas penser que je ne peux pas te\n"
 	.string "battre. Je vous le promets,\p"

@@ -314,19 +314,19 @@ TrainerHill_Entrance_Text_SaveGameBeforeEnter:
 	.string "sauvegarder votre partie.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "Voyons voir… Les FORMATTHIEUEURS\n"
+	.string "Voyons voir… Les DRESSEURS\n"
 	.string "ici maintenant sont… Jusqu'à\p"
 	.string "l'étage no. {STR_VAR_1}.$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
-	.string "Voyons voir… Les FORMATTHIEUEURS\n"
+	.string "Voyons voir… Les DRESSEURS\n"
 	.string "ici maintenant sont… Il semble y\p"
-	.string "avoir des FORMATTHIEUEURS\n"
+	.string "avoir des DRESSEURS\n"
 	.string "rassemblés dans chaque pièce.$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
 	.string "Aimeriez-vous défier les\n"
-	.string "FORMATTHIEUEURS en attente ?$"
+	.string "DRESSEURS en attente ?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo:
 	.string "Je chronométrerai vos progrès.\n"
@@ -348,7 +348,7 @@ TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
 	.string "mieux.$"
 
 TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
-	.string "Lorsque les FORMATTHIEUEURS\n"
+	.string "Lorsque les DRESSEURS\n"
 	.string "changent de place, le mouvement\p"
 	.string "peut être mouvementé. Pour éviter\n"
 	.string "la bousculade, nous avons déplacé\p"
@@ -444,7 +444,7 @@ TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 	.string "chemin !$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
-	.string "J'ai entendu des FORMATTHIEUEURS\n"
+	.string "J'ai entendu des DRESSEURS\n"
 	.string "coriaces venir de partout à ce\p"
 	.string "DRESSEUR HILL. J'ai hâte de tester\n"
 	.string "le terrain ! Je repousserai tous\p"

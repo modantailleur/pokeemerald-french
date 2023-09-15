@@ -3,6 +3,10 @@ import re
 import os
 from unidecode import unidecode
 
+all_files = False
+translate_path = './translate_folder/'
+file_to_translate = 'trainers.inc'
+
 translator = Translator()
 
 # Function to translate a text to French
@@ -279,93 +283,167 @@ def add_line_breaks(text, mid_box_limit=35, box_limit=35):
     return lines
 
 
+if all_files:
+    count = 0
+    for subdir, dirs, files in os.walk('./'):
+        for file_n in files:
+            str_check = 'scripts.inc'
+            if (file_n.endswith(str_check)) and (not file_n.endswith('eng.inc')):
 
-count = 0
-for subdir, dirs, files in os.walk('./'):
-    for file_n in files:
-        str_check = 'scripts.inc'
-        if (file_n.endswith(str_check)) and (not file_n.endswith('eng.inc')):
+                f = os.path.join(subdir, file_n)
 
-            f = os.path.join(subdir, file_n)
+                base_name_without_extension = os.path.splitext(file_n)[0]
+                eng_file_name = base_name_without_extension + '_eng.inc'
+                eng_file_path = os.path.join(subdir, eng_file_name)
 
-            base_name_without_extension = os.path.splitext(file_n)[0]
-            eng_file_name = base_name_without_extension + '_eng.inc'
-            eng_file_path = os.path.join(subdir, eng_file_name)
+                if os.path.exists(eng_file_path):
+                    print(f"Skipping {f} as {eng_file_name} already exists.")
+                    count += 1
+                    continue
+                    
+                #MT: just for debug
+                # if f != './data/maps/Route124_DivingTreasureHuntersHouse/scripts.inc':
+                #     continue
 
-            if os.path.exists(eng_file_path):
-                print(f"Skipping {f} as {eng_file_name} already exists.")
-                count += 1
-                continue
+                with open(f, 'r', encoding='utf-8') as file:
+                    lines = file.read().split('"')
                 
-            #MT: just for debug
-            # if f != './data/maps/Route124_DivingTreasureHuntersHouse/scripts.inc':
-            #     continue
+                with open(f, 'r', encoding='utf-8') as file:
+                    orig_eng_text = file.read()
 
-            with open(f, 'r', encoding='utf-8') as file:
-                lines = file.read().split('"')
-            
-            with open(f, 'r', encoding='utf-8') as file:
-                orig_eng_text = file.read()
+                #if no strings detected in the file, no need to calculate anything
+                if len(lines) <= 1:
+                    count += 1
+                    continue
 
-            #if no strings detected in the file, no need to calculate anything
-            if len(lines) <= 1:
-                count += 1
-                continue
+                eng_text = ''
+                fr_lines = []
+                on_a_text = False
+                cur_section = ''
+                #pattern = r'\{([^}]+)\}'
 
-            eng_text = ''
-            fr_lines = []
-            on_a_text = False
-            cur_section = ''
-            #pattern = r'\{([^}]+)\}'
+                fr_lines.append(lines[0][:-9])
 
-            fr_lines.append(lines[0][:-9])
+                for idx, line in enumerate(lines):
+                    
+                    if idx != 0:
+                        if (":\n\t.string " in lines[idx-1]) & (eng_text != "") :
+                            # matches = re.findall(pattern, new_text)
+                            pre_processed_eng_text = replace_abrevations(eng_text)
+                            translated_text = translate_to_french(pre_processed_eng_text)
+                            translated_text = replace_text_in_brackets(eng_text, translated_text)
+                            translated_text = replace_translation_mistakes(translated_text)
 
-            for idx, line in enumerate(lines):
+                            translated_text = add_line_breaks(translated_text)
+                            fr_lines = fr_lines + translated_text
+                            fr_lines.append(cur_section)
+                            eng_text = ''
+
+                        if lines[idx-1][-8:] == ".string ":
+                            cur_data = lines[idx]
+                            cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
+                            eng_text = eng_text+cur_data
+
+                        else:
+                            if ".string " in lines[idx]:
+                                if lines[idx][1] == '\n':
+                                    cur_section = lines[idx][:-9]
+
+                if eng_text:
+                    pre_processed_eng_text = replace_abrevations(eng_text)
+                    translated_text = translate_to_french(pre_processed_eng_text)
+                    translated_text = replace_text_in_brackets(eng_text, translated_text)
+                    translated_text = replace_translation_mistakes(translated_text)
+                    translated_text = add_line_breaks(translated_text)
+                    fr_lines = fr_lines + translated_text
+
+                fr_text = "".join(fr_lines) +'\n'
                 
-                if idx != 0:
-                    if (":\n\t.string " in lines[idx-1]) & (eng_text != "") :
-                        # matches = re.findall(pattern, new_text)
-                        pre_processed_eng_text = replace_abrevations(eng_text)
-                        translated_text = translate_to_french(pre_processed_eng_text)
-                        translated_text = replace_text_in_brackets(eng_text, translated_text)
-                        translated_text = replace_translation_mistakes(translated_text)
+                count += 1
+                print('XXXXXXXXXXXXX')
+                print(f)
+                print(f'{count} files processed')
 
-                        translated_text = add_line_breaks(translated_text)
-                        fr_lines = fr_lines + translated_text
-                        fr_lines.append(cur_section)
-                        eng_text = ''
+                #replace english text by french text
+                with open(f, 'w', encoding='utf-8') as file:
+                    file.write(fr_text)
 
-                    if lines[idx-1][-8:] == ".string ":
-                        cur_data = lines[idx]
-                        cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
-                        eng_text = eng_text+cur_data
+                #save english text in a new .inc file, just adding eng to it
+                with open(eng_file_path, 'w', encoding='utf-8') as file:
+                    file.write(orig_eng_text)   
+else:
+    count = 0
+    file_n = file_to_translate
+    subdir = translate_path
+    f = os.path.join(translate_path, file_to_translate)
 
-                    else:
-                        if ".string " in lines[idx]:
-                            if lines[idx][1] == '\n':
-                                cur_section = lines[idx][:-9]
+    base_name_without_extension = os.path.splitext(file_n)[0]
+    eng_file_name = base_name_without_extension + '_eng.inc'
+    eng_file_path = os.path.join(subdir, eng_file_name)
+        
+    #MT: just for debug
+    # if f != './data/maps/Route124_DivingTreasureHuntersHouse/scripts.inc':
+    #     continue
 
-            if eng_text:
+    with open(f, 'r', encoding='utf-8') as file:
+        lines = file.read().split('"')
+    
+    with open(f, 'r', encoding='utf-8') as file:
+        orig_eng_text = file.read()
+
+    eng_text = ''
+    fr_lines = []
+    on_a_text = False
+    cur_section = ''
+    #pattern = r'\{([^}]+)\}'
+
+    fr_lines.append(lines[0][:-9])
+
+    for idx, line in enumerate(lines):
+        
+        if idx != 0:
+            if (":\n\t.string " in lines[idx-1]) & (eng_text != "") :
+                # matches = re.findall(pattern, new_text)
                 pre_processed_eng_text = replace_abrevations(eng_text)
                 translated_text = translate_to_french(pre_processed_eng_text)
                 translated_text = replace_text_in_brackets(eng_text, translated_text)
                 translated_text = replace_translation_mistakes(translated_text)
+
                 translated_text = add_line_breaks(translated_text)
                 fr_lines = fr_lines + translated_text
+                fr_lines.append(cur_section)
+                eng_text = ''
 
-            fr_text = "".join(fr_lines) +'\n'
-            
-            count += 1
-            print('XXXXXXXXXXXXX')
-            print(f)
-            print(f'{count} files processed')
+            if lines[idx-1][-8:] == ".string ":
+                cur_data = lines[idx]
+                cur_data = cur_data.replace('\p', ' ').replace('\l', ' ').replace('\\n', ' ')
+                eng_text = eng_text+cur_data
 
-            #replace english text by french text
-            with open(f, 'w', encoding='utf-8') as file:
-                file.write(fr_text)
+            else:
+                if ".string " in lines[idx]:
+                    if lines[idx][1] == '\n':
+                        cur_section = lines[idx][:-9]
 
-            #save english text in a new .inc file, just adding eng to it
-            with open(eng_file_path, 'w', encoding='utf-8') as file:
-                file.write(orig_eng_text)   
+    if eng_text:
+        pre_processed_eng_text = replace_abrevations(eng_text)
+        translated_text = translate_to_french(pre_processed_eng_text)
+        translated_text = replace_text_in_brackets(eng_text, translated_text)
+        translated_text = replace_translation_mistakes(translated_text)
+        translated_text = add_line_breaks(translated_text)
+        fr_lines = fr_lines + translated_text
 
+    fr_text = "".join(fr_lines) +'\n'
+    
+    count += 1
+    print('XXXXXXXXXXXXX')
+    print(f)
+    print(f'{count} files processed')
+
+    #replace english text by french text
+    with open(f, 'w', encoding='utf-8') as file:
+        file.write(fr_text)
+
+    #save english text in a new .inc file, just adding eng to it
+    with open(eng_file_path, 'w', encoding='utf-8') as file:
+        file.write(orig_eng_text)  
 

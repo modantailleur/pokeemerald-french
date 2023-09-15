@@ -912,13 +912,13 @@ gText_BigHoleInTheWall::
 	.string "There is a big hole in the wall.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Je suis vraiment désolée.\p"
+	.string "Le club sans fil POKéMON\n"
+	.string "est encore en préparation.$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Ils sont en train d'effectuer\n"
+	.string "des réglages…$"
 
 @ Unused
 gText_SorryTradeCenterInspections::

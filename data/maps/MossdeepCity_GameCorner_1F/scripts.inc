@@ -50,7 +50,7 @@ RS_MysteryEventsHouse_Text_DoorIsLocked:
 	.string "La porte semble être verrouillée.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "Un FORMATTHIEUEUR nommé {STR_VAR_1}\n"
+	.string "Un DRESSEUR nommé {STR_VAR_1}\n"
 	.string "vient chez moi. Souhaitez-vous\p"
 	.string "défier {STR_VAR_1} ?$"
 

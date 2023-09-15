@@ -295,7 +295,7 @@ PlayersHouse_2F_Text_Notebook:
 	.string "vierges…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} a examiné de plus près la\n"
+	.string "{PLAYER} regarde attentivement la\n"
 	.string "carte de la région HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:

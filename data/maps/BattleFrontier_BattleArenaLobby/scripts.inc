@@ -354,7 +354,7 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
 	.string "Où l'esprit combatif des\n"
-	.string "FORMATTHIEUEURS est mis à l'épreuve\p"
+	.string "DRESSEURS est mis à l'épreuve\p"
 	.string "! Je vous souhaite la bienvenue\n"
 	.string "dans la BATTLE ARENA ! Je suis\p"
 	.string "votre guide pour le tournoi Set KO\n"

@@ -25,7 +25,7 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Salut, FORMATTHIEUEUR ! Une SUPER\n"
+	.string "Salut, DRESSEUR ! Une SUPER\n"
 	.string "ROD, c'est vraiment super ! Dites\p"
 	.string "tout ce que vous voulez, mais ce\n"
 	.string "bébé peut attraper des POKéMON sur\p"

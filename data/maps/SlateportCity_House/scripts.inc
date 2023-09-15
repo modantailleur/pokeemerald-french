@@ -18,7 +18,7 @@ SlateportCity_House_Text_NatureToDoWithStatGains:
 	.string "POKéMON.$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "Vous êtes un FORMATTHIEUEUR,\n"
+	.string "Vous êtes un DRESSEUR,\n"
 	.string "n'est-ce pas ? Depuis que vous êtes\p"
 	.string "arrivé à POIVRESSEL, vous devez\n"
 	.string "vous rendre à la TENTE DE COMBAT.$"

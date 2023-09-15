@@ -34,7 +34,7 @@ Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "ouverte !$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Peu de FORMATTHIEUEURS sont arrivés\n"
+	.string "Peu de DRESSEURS sont arrivés\n"
 	.string "jusqu’ici.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:

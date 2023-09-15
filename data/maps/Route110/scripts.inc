@@ -962,7 +962,7 @@ Route110_Text_TrainerTipsPrlzSleep:
 	.string "combats POKéMON.$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "CONSEILS POUR LE FORMATTHIEUEUR Les\n"
+	.string "CONSEILS POUR LE DRESSEUR Les\n"
 	.string "éléments du SAC peuvent être\p"
 	.string "réorganisés en appuyant sur\n"
 	.string "SELECT.$"

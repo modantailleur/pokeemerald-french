@@ -324,7 +324,7 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
 	.string "Où l'intelligence des\n"
-	.string "FORMATTHIEUEURS est mise à\p"
+	.string "DRESSEURS est mise à\p"
 	.string "l'épreuve ! Bienvenue à la BATTLE\n"
 	.string "FACTORY ! Je suis votre guide pour\p"
 	.string "le tournoi Battle Swap Single.$"
@@ -433,7 +433,7 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
 	.string "Où l'intelligence des\n"
-	.string "FORMATTHIEUEURS est mise à\p"
+	.string "DRESSEURS est mise à\p"
 	.string "l'épreuve ! Bienvenue à la BATTLE\n"
 	.string "FACTORY ! Je suis votre guide pour\p"
 	.string "le tournoi Battle Swap Double.$"

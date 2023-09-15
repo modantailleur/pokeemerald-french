@@ -515,7 +515,7 @@ Route109_Text_BrineyTellMeWhenYouNeedToSail:
 	.string "as besoin de repartir !$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, FORMATTHIEUEURS ! Que vous\n"
+	.string "Yo, DRESSEURS ! Que vous\n"
 	.string "soyez chaud au trot, ou cool cat\p"
 	.string "pas, chill chez mon papa !$"
 
@@ -558,7 +558,7 @@ Route109_Text_SeashoreHouseSign:
 	.string "SEASHORE HOUSE “ Que de chaudes\n"
 	.string "batailles fassent rage sur les\p"
 	.string "sables brûlants ! L'endroit pour\n"
-	.string "les FORMATTHIEUEURS chauds! “$"
+	.string "les DRESSEURS chauds! “$"
 
 Route109_Text_TrainerTipsSign:
 	.string "CONSEILS POUR L'DRESSEUR Les\n"

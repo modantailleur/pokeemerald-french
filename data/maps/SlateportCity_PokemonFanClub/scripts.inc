@@ -283,7 +283,7 @@ SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
 	.string "d'examiner comment vous avez élevé\p"
 	.string "votre POKéMON. Cela me ravit sans\n"
 	.string "fin de voir des POKéMON élevés par\p"
-	.string "d'autres FORMATTHIEUEURS. Les\n"
+	.string "d'autres DRESSEURS. Les\n"
 	.string "expressions heureuses de POKéMON\p"
 	.string "élevé avec les soins appropriés…\n"
 	.string "Les yeux bienveillants de\p"
@@ -388,7 +388,7 @@ SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
 	.string "POKéMON s'évanouir au combat, il\p"
 	.string "finira par lui en vouloir. Bientôt,\n"
 	.string "il deviendra moins confiant envers\p"
-	.string "le FORMATTHIEUEUR. En d’autres\n"
+	.string "le DRESSEUR. En d’autres\n"
 	.string "termes, il ne vous plaira\p"
 	.string "certainement pas beaucoup.$"
 

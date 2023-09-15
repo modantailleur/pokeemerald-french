@@ -1002,7 +1002,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
 	.string "MECHADOLL 4 QUIZ. Dans l'ÉCOLE DES\n"
-	.string "FORMATTHIEUEURS, combien y avait-il\p"
+	.string "DRESSEURS, combien y avait-il\p"
 	.string "d'élèves filles ?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:

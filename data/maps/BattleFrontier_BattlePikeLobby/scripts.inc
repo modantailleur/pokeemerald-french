@@ -268,7 +268,7 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Où la chance des FORMATTHIEUEURS\n"
+	.string "Où la chance des DRESSEURS\n"
 	.string "est mise à l’épreuve… Bienvenue au\p"
 	.string "BATTLE PIKE… Je suis votre guide du\n"
 	.string "BATTLE PIKE…$"
@@ -412,7 +412,7 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "n'arrive pas du tout à comprendre !\p"
 	.string "J'ai relevé le défi plusieurs fois,\n"
 	.string "mais tout ce que je fais, c'est\p"
-	.string "rencontrer des FORMATTHIEUEURS,\n"
+	.string "rencontrer des DRESSEURS,\n"
 	.string "quelle que soit la voie que je\p"
 	.string "choisis.$"
 

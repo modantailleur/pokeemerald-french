@@ -82,7 +82,7 @@ FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
 	.string "Qu'est-ce que c'est? Que tient-il ?\p"
 	.string "UNE HERBE MENTALE ? Il a dû le\n"
 	.string "récupérer quelque part. Mais je ne\p"
-	.string "suis pas FORMATTHIEUEUR, donc vous\n"
+	.string "suis pas DRESSEUR, donc vous\n"
 	.string "pouvez l'avoir.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:

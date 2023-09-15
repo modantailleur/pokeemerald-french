@@ -525,7 +525,7 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Où le courage des FORMATTHIEUEURS\n"
+	.string "Où le courage des DRESSEURS\n"
 	.string "est mis à l’épreuve ! Bienvenue\p"
 	.string "dans la PYRAMIDE DE BATAILLE ! Je\n"
 	.string "suis votre guide pour la Battle\p"
@@ -863,7 +863,7 @@ BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
 	.string "les DRESSEURS peuvent le remarquer\p"
 	.string "et vous poursuivre pour une\n"
 	.string "bataille. Donc, si vous voulez\p"
-	.string "éviter les FORMATTHIEUEURS,\n"
+	.string "éviter les DRESSEURS,\n"
 	.string "n'attirez pas leur attention, mais\p"
 	.string "faufilez-vous doucement et\n"
 	.string "discrètement devant eux.$"
@@ -904,10 +904,10 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
 	.string "rencontrer.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "DES FORMATTHIEUEURS vous attendent\n"
+	.string "DES DRESSEURS vous attendent\n"
 	.string "à l’intérieur de la PYRAMIDE. À\p"
 	.string "chaque étage, il y a jusqu'à huit\n"
-	.string "FORMATTHIEUEURS. Lorsque vous\p"
+	.string "DRESSEURS. Lorsque vous\p"
 	.string "battez un DRESSEUR, vous recevrez\n"
 	.string "un indice utile pour votre\p"
 	.string "aventure.$"

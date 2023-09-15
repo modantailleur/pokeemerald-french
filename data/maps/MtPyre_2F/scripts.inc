@@ -122,7 +122,7 @@ MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm… Tu es durable.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Notre famille est FORMATTHIEUEUR\n"
+	.string "Notre famille est DRESSEUR\n"
 	.string "ici depuis l'époque de mon\p"
 	.string "arrière-grand-mère… C'est mon\n"
 	.string "devoir de protéger cette montagne…$"

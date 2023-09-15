@@ -12,7 +12,7 @@ FortreeCity_House3_EventScript_SchoolKidM::
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
 	.string "En parlant de POKéDEXES, je me suis\n"
 	.string "souvenu de quelque chose. J'ai\p"
-	.string "rencontré ce FORMATTHIEUEUR,\n"
+	.string "rencontré ce DRESSEUR,\n"
 	.string "PIERRE, alors que je cherchais des\p"
 	.string "pierres rares. Hoo, mon garçon, il\n"
 	.string "avait des POKéMON incroyables avec\p"

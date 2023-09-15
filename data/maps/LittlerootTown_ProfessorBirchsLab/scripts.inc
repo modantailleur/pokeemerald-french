@@ -728,7 +728,7 @@ LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou:
 	.string "PROF. SEKO : Super ! {RIVAL} devrait\n"
 	.string "également être heureux. Obtenez\p"
 	.string "{RIVAL} pour vous apprendre ce que\n"
-	.string "signifie être un FORMATTHIEUEUR.$"
+	.string "signifie être un DRESSEUR.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_DontBeThatWay:
 	.string "PROF. SEKO : Oh, ne soyez pas comme\n"
@@ -752,7 +752,7 @@ LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex:
 	.string "excellent! {RIVAL} m'aide dans mes\n"
 	.string "recherches depuis longtemps. {RIVAL}\p"
 	.string "a déjà une longue histoire en tant\n"
-	.string "que FORMATTHIEUEUR. Tiens,\p"
+	.string "que DRESSEUR. Tiens,\p"
 	.string "{PLAYER}{KUN}, j'ai commandé ceci\n"
 	.string "pour mes recherches, mais je pense\p"
 	.string "que tu devrais avoir ce POKéDEX.$"

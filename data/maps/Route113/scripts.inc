@@ -154,7 +154,7 @@ Route113_Text_RouteSignFallarbor:
 	.string "ROUTE 113 {LEFT_ARROW} AUTEQUIA$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "CONSEILS DU FORMATTHIEUEUR Vous\n"
+	.string "CONSEILS DU DRESSEUR Vous\n"
 	.string "pouvez enregistrer l'un des\p"
 	.string "ÉLÉMENTS CLÉS de votre SAC en tant\n"
 	.string "que SÉLECTION. Appuyez simplement\p"

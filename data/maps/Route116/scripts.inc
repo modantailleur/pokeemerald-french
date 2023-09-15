@@ -397,12 +397,12 @@ Route116_Text_ThankYouTokenOfAppreciation:
 	.string "comblerais de gratitude et je te\n"
 	.string "saluerais comme un héros ! Pour\p"
 	.string "toi, le plus merveilleux des\n"
-	.string "FORMATTHIEUEURS, j'apporte une\p"
+	.string "DRESSEURS, j'apporte une\p"
 	.string "bonne nouvelle ! Récemment, notre\n"
 	.string "société a développé un nouveau type\p"
 	.string "de POKé BALL. En guise de\n"
 	.string "remerciement, voici notre cadeau à\p"
-	.string "notre merveilleux FORMATTHIEUEUR !$"
+	.string "notre merveilleux DRESSEUR !$"
 
 Route116_Text_NewBallAvailableAtMart:
 	.string "Notre nouveau POKé BALL sera\n"
@@ -468,10 +468,10 @@ Route116_Text_TrainerTipsBToStopEvolution:
 	.string "d'évolution.$"
 
 Route116_Text_TrainerTipsBagHasPockets:
-	.string "CONSEILS DU FORMATTHIEUEUR Votre\n"
+	.string "CONSEILS DU DRESSEUR Votre\n"
 	.string "SAC possède plusieurs POCHES. Les\p"
 	.string "objets que vous obtenez sont\n"
 	.string "automatiquement placés dans les\p"
 	.string "POCHES appropriées. Aucun\n"
-	.string "FORMATTHIEUEUR ne peut se permettre\p"
+	.string "DRESSEUR ne peut se permettre\p"
 	.string "de se passer de son propre SAC.$"

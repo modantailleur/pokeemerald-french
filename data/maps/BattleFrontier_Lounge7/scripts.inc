@@ -345,7 +345,7 @@ BattleFrontier_Lounge7_Text_YouDontWantTo:
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Ihihihi ! Je sais que c'est\n"
 	.string "difficile à voir maintenant, mais\p"
-	.string "j'étais un FORMATTHIEUEUR\n"
+	.string "j'étais un DRESSEUR\n"
 	.string "fantastique. J'avais la réputation\p"
 	.string "d'être le NAGEUR le plus invincible\n"
 	.string "du moment, je vous le dis ! … … … …\p"
@@ -377,7 +377,7 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "Quand j’étais tout petit, ces dames\n"
 	.string "étaient fortes et belles. Ils\p"
 	.string "étaient des idoles parmi nous, les\n"
-	.string "FORMATTHIEUEURS. Même aujourd’hui,\p"
+	.string "DRESSEURS. Même aujourd’hui,\p"
 	.string "l’âge n’a pas entamé leurs\n"
 	.string "capacités. En fait, leurs\p"
 	.string "mouvements POKéMON sont devenus\n"

@@ -326,7 +326,7 @@ LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "suffire… J'ai entendu dire qu'il\n"
 	.string "serait préférable de le conserver\p"
 	.string "avec POKéMON et de le transporter\n"
-	.string "partout. Vous êtes FORMATTHIEUEUR,\p"
+	.string "partout. Vous êtes DRESSEUR,\p"
 	.string "n'est-ce pas ? Et votre POKéMON\n"
 	.string "rayonne de vitalité. Alors, qu'en\p"
 	.string "dis-tu ? Allez-vous faire éclore\n"

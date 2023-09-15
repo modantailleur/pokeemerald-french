@@ -23,7 +23,7 @@ gText_Birch_MainSpeech::
 	.string "formidables combats de POKéMON.\p"
 	.string "Mais malgré nos liens, nous ne\n"
 	.string "savons pas tout sur les POKéMON.\p"
-	.string "En réalié, il existe d'innombrables\n"
+	.string "En réalité, il existe d'innombrables\n"
 	.string "secrets concernant les POKéMON.\p"
 	.string "Pour percer les mystères des\n"
 	.string "POKéMON, jes les étudie. C'est\l"

@@ -226,7 +226,7 @@ BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal:
 	.string "À la réflexion, ce fut un voyage\n"
 	.string "terriblement long… Je suis parti\p"
 	.string "seul de chez moi à la recherche de\n"
-	.string "FORMATTHIEUEURS forts. Personne ne\p"
+	.string "DRESSEURS forts. Personne ne\p"
 	.string "peut imaginer combien d’efforts ou\n"
 	.string "de temps il a fallu pour\p"
 	.string "concrétiser cela.$"
@@ -261,7 +261,7 @@ BattleFrontier_ScottsHouse_Text_ExpectingGreatThings:
 	.string "part !$"
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
-	.string "SCOTT : Chaque FORMATTHIEUEUR est\n"
+	.string "SCOTT : Chaque DRESSEUR est\n"
 	.string "un individu. Ils mènent tous leur\p"
 	.string "propre vie. Mais lorsqu’ils se\n"
 	.string "battent, peu importe qui ils sont.\p"
@@ -278,7 +278,7 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 	.string "encore, en avez-vous obtenu des\n"
 	.string "symboles ? J'ai sélectionné les\p"
 	.string "FRONTIER BRAINS comme étant les\n"
-	.string "FORMATTHIEUEURS les plus résistants\p"
+	.string "DRESSEURS les plus résistants\p"
 	.string "du monde. Mais je suis sûr que voir\n"
 	.string "à quel point vous êtes dur les\p"
 	.string "surprendra même !$"
@@ -323,7 +323,7 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols:
 
 BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere:
 	.string "Je dois dire que j'ai le don de\n"
-	.string "reconnaître un bon FORMATTHIEUEUR\p"
+	.string "reconnaître un bon DRESSEUR\p"
 	.string "quand j'en vois un. Je suis\n"
 	.string "tellement contente d'avoir eu la\p"
 	.string "prévoyance de vous amener ici !$"

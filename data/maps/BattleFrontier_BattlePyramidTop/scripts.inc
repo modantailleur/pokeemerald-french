@@ -241,7 +241,7 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "! Notre chef a déjà conquis la\p"
 	.string "PYRAMIDE devant vous. Pourtant, mon\n"
 	.string "jeune explorateur… Vous êtes un\p"
-	.string "FORMATTHIEUEUR ! Affirmez votre\n"
+	.string "DRESSEUR ! Affirmez votre\n"
 	.string "pouvoir et prenez la gloire du\p"
 	.string "summum à notre chef ! Maintenant\n"
 	.string "s'il-te-plaît! Lorsque vous êtes\p"

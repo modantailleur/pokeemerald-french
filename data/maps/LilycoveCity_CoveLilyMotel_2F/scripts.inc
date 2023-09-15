@@ -132,5 +132,5 @@ LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
 	.string "stratégie pour gagner un CONCOURS.\p"
 	.string "Concevoir des stratégies de\n"
 	.string "CONCOURS est une façon de devenir\p"
-	.string "un meilleur FORMATTHIEUEUR, je\n"
+	.string "un meilleur DRESSEUR, je\n"
 	.string "dirais.$"

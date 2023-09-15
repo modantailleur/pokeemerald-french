@@ -319,8 +319,8 @@ MauvilleCity_Gym_Text_VivianDefeat:
 MauvilleCity_Gym_Text_VivianPostBattle:
 	.string "J'ai entendu dire que MAUVILLE\n"
 	.string "avait été fondée par VOLTÈRE. Il\p"
-	.string "était FORMATTHIEUEUR bien avant que\n"
-	.string "nous ne devenions FORMATTHIEUEURS.\p"
+	.string "était DRESSEUR bien avant que\n"
+	.string "nous ne devenions DRESSEURS.\p"
 	.string "Il doit savoir toutes sortes de\n"
 	.string "choses !$"
 
@@ -376,7 +376,7 @@ MauvilleCity_Gym_Text_RegisteredWattson:
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
 	.string "Je gonfle d'optimisme en voyant un\n"
-	.string "jeune FORMATTHIEUEUR prometteur\p"
+	.string "jeune DRESSEUR prometteur\p"
 	.string "comme toi !$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:

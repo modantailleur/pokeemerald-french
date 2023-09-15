@@ -152,7 +152,7 @@ AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
 	.string "Force et compassion… Ce sont les\n"
-	.string "trésors d'un FORMATTHIEUEUR !$"
+	.string "trésors d'un DRESSEUR !$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
 	.string "Ah, il y a quelque chose chez toi\n"

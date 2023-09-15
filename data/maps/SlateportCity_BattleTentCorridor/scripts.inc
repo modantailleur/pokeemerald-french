@@ -211,7 +211,7 @@ SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
 	.string "JUGE : Eh bien, bonjour ! Je vois\n"
-	.string "que tu es FORMATTHIEUEUR ! Alors,\p"
+	.string "que tu es DRESSEUR ! Alors,\p"
 	.string "il ne faudrait pas que vous\n"
 	.string "manquiez un CONCOURS POKéMON !\p"
 	.string "Obtenez un PASS CONCOURS à\n"

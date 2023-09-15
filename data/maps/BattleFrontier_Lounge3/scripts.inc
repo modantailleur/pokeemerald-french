@@ -483,5 +483,5 @@ BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
 	.string "gagnant quand j'en vois un !$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
-	.string "Ces FORMATTHIEUEURS… Que font-ils ?\n"
+	.string "Ces DRESSEURS… Que font-ils ?\n"
 	.string "Ils devraient relever des défis.$"

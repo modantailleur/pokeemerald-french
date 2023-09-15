@@ -434,7 +434,7 @@ BattleFrontier_BattleDomeLobby_EventScript_ExitRules::
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle:
 	.string "Où les stratégies des\n"
-	.string "FORMATTHIEUEURS sont mises à\p"
+	.string "DRESSEURS sont mises à\p"
 	.string "l'épreuve ! Bienvenue au BATTLE\n"
 	.string "DOME ! Je suis votre guide du\p"
 	.string "tournoi SINGLE BATTLE.$"
@@ -450,7 +450,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
 	.string "Le tournoi SINGLE BATTLE est\n"
 	.string "exactement comme son nom l'indique\p"
 	.string ": un tournoi de SINGLE BATTLE. Tous\n"
-	.string "les FORMATTHIEUEURS participants\p"
+	.string "les DRESSEURS participants\p"
 	.string "doivent inscrire trois POKéMON\n"
 	.string "chacun. Dans chaque combat, un des\p"
 	.string "trois POKéMON doit être tenu en\n"
@@ -549,7 +549,7 @@ BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2:
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle:
 	.string "Où les stratégies des\n"
-	.string "FORMATTHIEUEURS sont mises à\p"
+	.string "DRESSEURS sont mises à\p"
 	.string "l'épreuve ! Bienvenue au BATTLE\n"
 	.string "DOME ! Je suis votre guide du\p"
 	.string "tournoi DOUBLE BATTLE.$"
@@ -562,7 +562,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
 	.string "Le tournoi DOUBLE BATTLE est\n"
 	.string "exactement comme son nom l'indique\p"
 	.string ": un tournoi de DOUBLE BATTLES.\n"
-	.string "Tous les FORMATTHIEUEURS\p"
+	.string "Tous les DRESSEURS\p"
 	.string "participants doivent inscrire trois\n"
 	.string "POKéMON chacun. Dans chaque combat,\p"
 	.string "un des trois POKéMON doit être tenu\n"

@@ -607,7 +607,7 @@ Route111_Text_VictoriaDefeat:
 	.string "force !$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "Il y a un FORMATTHIEUEUR fort ici !\n"
+	.string "Il y a un DRESSEUR fort ici !\n"
 	.string "Celui-ci est vraiment fort !$"
 
 Route111_Text_ViviIntro:
@@ -669,7 +669,7 @@ Route111_Text_OldLadysRestStopSign:
 	.string "” $"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "CONSEILS POUR LE FORMATTHIEUEUR\n"
+	.string "CONSEILS POUR LE DRESSEUR\n"
 	.string "L'un des indicateurs de la\p"
 	.string "puissance d'un POKéMON est le SP.\n"
 	.string "ATK. Cela signifie “ ATTAQUE\p"

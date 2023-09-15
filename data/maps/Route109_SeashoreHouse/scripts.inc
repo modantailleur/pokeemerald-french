@@ -104,7 +104,7 @@ Route109_SeashoreHouse_Text_SeashoreHouseIntro:
 	.string "combats POKéMON torrides.\n"
 	.string "Laisse-moi voir que ton cœur brûle\p"
 	.string "! Si vous parvenez à vaincre tous\n"
-	.string "les FORMATTHIEUEURS ici, je\p"
+	.string "les DRESSEURS ici, je\p"
 	.string "récompenserai vos efforts.$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:

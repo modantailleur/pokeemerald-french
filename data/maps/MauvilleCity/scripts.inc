@@ -529,11 +529,11 @@ MauvilleCity_Text_WallyIllGoBackToVerdanturf:
 	.string "VERGUIDOTURF…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
-	.string "{PLAYER}, merci. Être FORMATTHIEUEUR,\n"
+	.string "{PLAYER}, merci. Être DRESSEUR,\n"
 	.string "c'est dur, n'est-ce pas ? Il ne\p"
 	.string "suffit pas d'avoir POKéMON et de\n"
 	.string "les faire se battre. Ce n'est pas\p"
-	.string "ça, être un vrai FORMATTHIEUEUR.$"
+	.string "ça, être un vrai DRESSEUR.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "ONCLE : TIMMY, il n'est pas\n"
@@ -575,7 +575,7 @@ MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "manière impressionnante. Ouais!\n"
 	.string "C'est ça, une vraie bataille\p"
 	.string "POKéMON ! J'idolâtre les\n"
-	.string "FORMATTHIEUEURS comme ça ! … … … …\p"
+	.string "DRESSEURS comme ça ! … … … …\p"
 	.string "… … Je t'encouragerai !$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:

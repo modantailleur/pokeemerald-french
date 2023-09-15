@@ -507,32 +507,32 @@ BattlePyramid_Text_ZeroItemsRemaining6::
 
 BattlePyramid_Text_SevenTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore sept FORMATTHIEUEURS\p"
+	.string "y a encore sept DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore six FORMATTHIEUEURS\p"
+	.string "y a encore six DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore cinq FORMATTHIEUEURS\p"
+	.string "y a encore cinq DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore quatre FORMATTHIEUEURS\p"
+	.string "y a encore quatre DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore trois FORMATTHIEUEURS\p"
+	.string "y a encore trois DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
 	.string "Tu étais vraiment génial ! Mais il\n"
-	.string "y a encore deux FORMATTHIEUEURS\p"
+	.string "y a encore deux DRESSEURS\p"
 	.string "coriaces à part moi !$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
@@ -547,119 +547,119 @@ BattlePyramid_Text_ZeroTrainersRemaining1::
 
 BattlePyramid_Text_SevenTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste sept FORMATTHIEUEURS !\p"
+	.string "il reste sept DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_SixTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste six FORMATTHIEUEURS !\p"
+	.string "il reste six DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_FiveTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste cinq FORMATTHIEUEURS !\p"
+	.string "il reste cinq DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_FourTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste quatre FORMATTHIEUEURS !\p"
+	.string "il reste quatre DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste trois FORMATTHIEUEURS !\p"
+	.string "il reste trois DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_TwoTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste deux FORMATTHIEUEURS !\p"
+	.string "il reste deux DRESSEURS !\p"
 	.string "Quelqu'un vous humiliera !$"
 
 BattlePyramid_Text_OneTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il reste un FORMATTHIEUEUR ! Je\p"
+	.string "il reste un DRESSEUR ! Je\p"
 	.string "suis sûr que vous serez honoré !$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
 	.string "C'est tellement bouleversant ! Mais\n"
-	.string "il n'y a plus de FORMATTHIEUEURS\p"
+	.string "il n'y a plus de DRESSEURS\p"
 	.string "qui peuvent vous engager !$"
 
 BattlePyramid_Text_SevenTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a sept autres FORMATTHIEUEURS\p"
+	.string "il y a sept autres DRESSEURS\p"
 	.string "à cet étage. Pouvez-vous tous les\n"
 	.string "battre ?$"
 
 BattlePyramid_Text_SixTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a six autres FORMATTHIEUEURS à\p"
+	.string "il y a six autres DRESSEURS à\p"
 	.string "cet étage. Pouvez-vous tous les\n"
 	.string "battre ?$"
 
 BattlePyramid_Text_FiveTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a cinq autres FORMATTHIEUEURS\p"
+	.string "il y a cinq autres DRESSEURS\p"
 	.string "à cet étage. Pouvez-vous tous les\n"
 	.string "battre ?$"
 
 BattlePyramid_Text_FourTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
 	.string "il y a quatre autres\p"
-	.string "FORMATTHIEUEURS à cet étage.\n"
+	.string "DRESSEURS à cet étage.\n"
 	.string "Pouvez-vous tous les battre ?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a trois autres FORMATTHIEUEURS\p"
+	.string "il y a trois autres DRESSEURS\p"
 	.string "à cet étage. Pouvez-vous tous les\n"
 	.string "battre ?$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a deux autres FORMATTHIEUEURS\p"
+	.string "il y a deux autres DRESSEURS\p"
 	.string "à cet étage. Pouvez-vous les battre\n"
 	.string "tous les deux ?$"
 
 BattlePyramid_Text_OneTrainersRemaining3::
 	.string "C'est assez impressionnant ! Mais\n"
-	.string "il y a encore un FORMATTHIEUEUR de\p"
+	.string "il y a encore un DRESSEUR de\p"
 	.string "plus à cet étage. Pouvez-vous\n"
 	.string "l'emporter ?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
 	.string "C'est assez impressionnant ! Vous\n"
 	.string "avez parcouru tous les\p"
-	.string "FORMATTHIEUEURS de cet étage.$"
+	.string "DRESSEURS de cet étage.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "sept FORMATTHIEUEURS restants à cet\p"
+	.string "sept DRESSEURS restants à cet\p"
 	.string "étage.$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "six FORMATTHIEUEURS restants à cet\p"
+	.string "six DRESSEURS restants à cet\p"
 	.string "étage.$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "cinq FORMATTHIEUEURS restants à cet\p"
+	.string "cinq DRESSEURS restants à cet\p"
 	.string "étage.$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "quatre FORMATTHIEUEURS restants à\p"
+	.string "quatre DRESSEURS restants à\p"
 	.string "cet étage.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "trois FORMATTHIEUEURS restants à\p"
+	.string "trois DRESSEURS restants à\p"
 	.string "cet étage.$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
 	.string "Peut-être pourriez-vous balayer les\n"
-	.string "deux FORMATTHIEUEURS restants à cet\p"
+	.string "deux DRESSEURS restants à cet\p"
 	.string "étage.$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
@@ -674,7 +674,7 @@ BattlePyramid_Text_ZeroTrainersRemaining4::
 BattlePyramid_Text_SevenTrainersRemaining5::
 	.string "Vous avez peut-être ce qu'il faut\n"
 	.string "pour battre les sept\p"
-	.string "FORMATTHIEUEURS experts qui\n"
+	.string "DRESSEURS experts qui\n"
 	.string "restent.$"
 
 BattlePyramid_Text_SixTrainersRemaining5::
@@ -715,7 +715,7 @@ BattlePyramid_Text_ZeroTrainersRemaining5::
 
 BattlePyramid_Text_SevenTrainersRemaining6::
 	.string "Pouvez-vous continuer à gagner\n"
-	.string "contre les sept FORMATTHIEUEURS\p"
+	.string "contre les sept DRESSEURS\p"
 	.string "restants ?$"
 
 BattlePyramid_Text_SixTrainersRemaining6::
@@ -725,7 +725,7 @@ BattlePyramid_Text_SixTrainersRemaining6::
 
 BattlePyramid_Text_FiveTrainersRemaining6::
 	.string "Pouvez-vous continuer à gagner\n"
-	.string "contre les cinq FORMATTHIEUEURS\p"
+	.string "contre les cinq DRESSEURS\p"
 	.string "restants ?$"
 
 BattlePyramid_Text_FourTrainersRemaining6::
@@ -735,7 +735,7 @@ BattlePyramid_Text_FourTrainersRemaining6::
 
 BattlePyramid_Text_ThreeTrainersRemaining6::
 	.string "Pouvez-vous continuer à gagner\n"
-	.string "contre les trois FORMATTHIEUEURS\p"
+	.string "contre les trois DRESSEURS\p"
 	.string "restants ?$"
 
 BattlePyramid_Text_TwoTrainersRemaining6::
@@ -750,5 +750,5 @@ BattlePyramid_Text_OneTrainersRemaining6::
 
 BattlePyramid_Text_ZeroTrainersRemaining6::
 	.string "Il ne reste plus aucun\n"
-	.string "FORMATTHIEUEUR qui puisse vous\p"
+	.string "DRESSEUR qui puisse vous\p"
 	.string "embaucher maintenant…$"

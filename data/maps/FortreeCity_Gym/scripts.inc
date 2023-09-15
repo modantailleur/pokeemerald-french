@@ -155,7 +155,7 @@ FortreeCity_Gym_Text_JaredDefeat:
 	.string "Tu… Tu es fort…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "UN FORMATTHIEUEUR doit être\n"
+	.string "UN DRESSEUR doit être\n"
 	.string "intelligent pour faire face aux\p"
 	.string "rebondissements inattendus des\n"
 	.string "événements. Avez-vous\p"
@@ -174,7 +174,7 @@ FortreeCity_Gym_Text_EdwardoDefeat:
 
 FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "Le monde est immense et il existe\n"
-	.string "d’innombrables FORMATTHIEUEURS\p"
+	.string "d’innombrables DRESSEURS\p"
 	.string "coriaces. Je vais continuer à\n"
 	.string "m'entraîner et me rendre encore\p"
 	.string "plus fort.$"

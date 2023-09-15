@@ -711,7 +711,7 @@ PetalburgCity_Text_WhereIsWally:
 
 PetalburgCity_Text_AreYouRookieTrainer:
 	.string "Salut ! Etes-vous peut-être… Un\n"
-	.string "FORMATTHIEUEUR débutant ?\p"
+	.string "DRESSEUR débutant ?\p"
 	.string "Savez-vous ce que font les\n"
 	.string "dresseurs de POKéMON lorsqu'ils\p"
 	.string "arrivent dans une nouvelle ville ?\n"
@@ -767,6 +767,6 @@ PetalburgCity_Text_WellMaybeNot:
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
 	.string "Je parcoure le territoire à la\n"
-	.string "recherche de FORMATTHIEUEURS\p"
+	.string "recherche de DRESSEURS\p"
 	.string "talentueux. Je suis désolé d'avoir\n"
 	.string "pris votre temps.$"

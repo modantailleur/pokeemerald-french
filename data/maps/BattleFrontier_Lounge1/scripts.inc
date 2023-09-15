@@ -158,7 +158,7 @@ BattleFrontier_Lounge1_Text_PokemonBreederIntro:
 	.string "devenez aussi aguerri que moi, vous\n"
 	.string "verrez les capacités de POKéMON en\p"
 	.string "un coup d'oeil. Vous êtes\n"
-	.string "FORMATTHIEUEUR. Cela ne vous\p"
+	.string "DRESSEUR. Cela ne vous\p"
 	.string "intéresse-t-il pas de connaître les\n"
 	.string "capacités de votre propre POKéMON ?\p"
 	.string "Ici! Jetons un coup d'œil à votre\n"

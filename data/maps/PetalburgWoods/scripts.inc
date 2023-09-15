@@ -451,7 +451,7 @@ PetalburgWoods_Text_HiddenItemsExplanation:
 PetalburgWoods_Text_TryUsingThisItem:
 	.string "Oh, chouette ! C'est le BADGE de\n"
 	.string "RUSTBORO GYM ! Vous devez être\p"
-	.string "FORMATTHIEUEUR. Vous devriez\n"
+	.string "DRESSEUR. Vous devriez\n"
 	.string "essayer d'utiliser cet article.$"
 
 PetalburgWoods_Text_MiracleSeedExplanation:

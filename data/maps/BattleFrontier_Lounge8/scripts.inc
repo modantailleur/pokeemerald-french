@@ -14,7 +14,7 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 	end
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
-	.string "Ce dont un FORMATTHIEUEUR a besoin…\n"
+	.string "Ce dont un DRESSEUR a besoin…\n"
 	.string "Connaissances… Stratégie… Chance…\p"
 	.string "Courage… Esprit… Courage… Et\n"
 	.string "capacité… Eh bien, je suis prêt\p"

@@ -280,7 +280,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_EventScript_Partner8::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner:
 	.string "Veuillez trouver un partenaire\n"
-	.string "parmi les FORMATTHIEUEURS réunis\p"
+	.string "parmi les DRESSEURS réunis\p"
 	.string "ici.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
@@ -292,7 +292,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2:
 	.string "Alors, veuillez trouver un\n"
 	.string "partenaire parmi les\p"
-	.string "FORMATTHIEUEURS réunis ici.$"
+	.string "DRESSEURS réunis ici.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner::
 	.string "Merci d'avoir choisi un partenaire.\n"

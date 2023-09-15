@@ -84,7 +84,7 @@ VictoryRoad_B2F_Text_JulieDefeat:
 
 VictoryRoad_B2F_Text_JuliePostBattle:
 	.string "Contemplez vos BADGES collectés et\n"
-	.string "souvenez-vous des FORMATTHIEUEURS\p"
+	.string "souvenez-vous des DRESSEURS\p"
 	.string "que vous avez affrontés.$"
 
 VictoryRoad_B2F_Text_FelixIntro:

@@ -258,7 +258,7 @@ Route118_Text_StevenQuestions:
 	.string "favoris, ce n'est pas un problème.\n"
 	.string "Peut-être trouvez-vous plus amusant\p"
 	.string "d'élever toutes sortes de POKéMON.\n"
-	.string "En tant que FORMATTHIEUEUR de\p"
+	.string "En tant que DRESSEUR de\p"
 	.string "POKéMON, qu'en pensez-vous ? Bien\n"
 	.string "sûr, cela ne me regarde pas. Ce\p"
 	.string "serait bien si nous nous\n"

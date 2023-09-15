@@ -298,7 +298,7 @@ Route103_Text_MayLetsBattle:
 	.string "POKéMON. Puisque nous sommes là,\n"
 	.string "livrons une bataille rapide ! Je\p"
 	.string "vais vous donner un avant-goût de\n"
-	.string "ce qu'est être un FORMATTHIEUEUR.$"
+	.string "ce qu'est être un DRESSEUR.$"
 
 Route103_Text_MayDefeated:
 	.string "Ouah! C'est super! {PLAYER}{KUN}, tu\n"
@@ -326,7 +326,7 @@ Route103_Text_BrendanLetsBattle:
 	.string "sommes là, que diriez-vous d'une\n"
 	.string "petite bataille ? Je vais vous\p"
 	.string "apprendre ce qu'est être un\n"
-	.string "FORMATTHIEUEUR !$"
+	.string "DRESSEUR !$"
 
 Route103_Text_BrendanDefeated:
 	.string "Hein, {PLAYER}, tu n'es pas trop\n"

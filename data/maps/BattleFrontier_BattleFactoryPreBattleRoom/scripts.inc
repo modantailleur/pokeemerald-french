@@ -497,7 +497,7 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
 	.string "votre prochain adversaire.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "Le DRESSEUR est apparemment\n"
 	.string "compétent dans les manipulations de\p"
 	.string "type NORMAL.$"
 
@@ -507,12 +507,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
 	.string "FIRE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "Le DRESSEUR est apparemment\n"
 	.string "compétent dans la manipulation du\p"
 	.string "type EAU.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "Le DRESSEUR est apparemment\n"
 	.string "compétent dans la manipulation du\p"
 	.string "type ÉLECTRIQUE.$"
 
@@ -546,12 +546,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
 	.string "FLYING.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "Le DRESSEUR est apparemment\n"
 	.string "habile dans le maniement du type\p"
 	.string "PSYCHIQUE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "Le FORMATTHIEUEUR est apparemment\n"
+	.string "Le DRESSEUR est apparemment\n"
 	.string "compétent dans la gestion du type\p"
 	.string "BUG.$"
 

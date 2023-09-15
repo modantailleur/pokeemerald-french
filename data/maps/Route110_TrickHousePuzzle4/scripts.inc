@@ -44,7 +44,7 @@ Route110_TrickHousePuzzle4_Text_CoraDefeat:
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
 	.string "N'êtes-vous pas d'accord ? Vous\n"
 	.string "iriez n'importe où si les\p"
-	.string "FORMATTHIEUEURS étaient là.$"
+	.string "DRESSEURS étaient là.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
 	.string "Il h! Des rochers comme celui-ci,\n"

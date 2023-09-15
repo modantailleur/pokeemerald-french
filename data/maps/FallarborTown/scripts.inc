@@ -81,7 +81,7 @@ FallarborTown_Text_HaveYouChallengedFlannery:
 	.string "QUATRE ÉLITE de la LIGUE POKéMON à\n"
 	.string "un moment donné. Cela ne me\p"
 	.string "surprendrait pas de voir ADRIANE\n"
-	.string "devenir une grande FORMATTHIEUEUR à\p"
+	.string "devenir une grande DRESSEUR à\p"
 	.string "part entière.$"
 
 FallarborTown_Text_BattleTentSign:

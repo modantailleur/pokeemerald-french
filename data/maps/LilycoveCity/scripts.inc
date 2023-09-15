@@ -510,7 +510,7 @@ LilycoveCity_Text_BrendanDefeat:
 	.string "Humph… Vous avez fait beaucoup de\n"
 	.string "relance. Ça pique un peu, j'avais\p"
 	.string "une longueur d'avance sur toi en\n"
-	.string "tant que FORMATTHIEUEUR…$"
+	.string "tant que DRESSEUR…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
 	.string "BRICE : Je… j'ai l'intention de\n"

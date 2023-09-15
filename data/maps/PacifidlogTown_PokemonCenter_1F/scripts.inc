@@ -31,7 +31,7 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
 	.string "De quelle couleur est votre CARTE\n"
-	.string "DE FORMATTHIEUEUR ? Le mien est en\p"
+	.string "DE DRESSEUR ? Le mien est en\p"
 	.string "cuivre !$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:

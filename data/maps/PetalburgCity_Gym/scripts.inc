@@ -1462,7 +1462,7 @@ PetalburgCity_Gym_Text_MaryDefeat:
 	.string "Tu étais un cran au-dessus de moi…$"
 
 PetalburgCity_Gym_Text_MaryPostBattle:
-	.string "Des FORMATTHIEUEURS encore plus\n"
+	.string "Des DRESSEURS encore plus\n"
 	.string "forts vous attendent. La gauche est\p"
 	.string "la SALLE DE DÉFENSE et la droite\n"
 	.string "est la SALLE DE RÉCUPÉRATION. La\p"
@@ -1473,7 +1473,7 @@ PetalburgCity_Gym_Text_MaryPostBattle:
 PetalburgCity_Gym_Text_MaryPostBadge:
 	.string "Savez-vous ce que nous essayons de\n"
 	.string "réaliser en tant que\p"
-	.string "FORMATTHIEUEURS ? Nous nous\n"
+	.string "DRESSEURS ? Nous nous\n"
 	.string "efforçons de devenir des âmes sœurs\p"
 	.string "avec notre POKéMON.$"
 

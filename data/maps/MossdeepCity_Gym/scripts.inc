@@ -381,7 +381,7 @@ MossdeepCity_Gym_Text_GymGuideAdvice:
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
 	.string "Wow, tu es incroyable ! Vous êtes\n"
-	.string "un excellent FORMATTHIEUEUR !$"
+	.string "un excellent DRESSEUR !$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
 	.string "Les batailles dépendent de la force\n"

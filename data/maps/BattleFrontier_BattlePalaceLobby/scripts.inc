@@ -375,7 +375,7 @@ BattleFrontier_BattlePalaceLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForSingleBattle:
-	.string "Où le cœur des FORMATTHIEUEURS est\n"
+	.string "Où le cœur des DRESSEURS est\n"
 	.string "mis à rude épreuve. Je vous\p"
 	.string "souhaite la bienvenue au BATTLE\n"
 	.string "PALACE. J'accepte les défis des\p"
@@ -554,7 +554,7 @@ BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway:
 	.string "pas être vrai.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle:
-	.string "Où le cœur des FORMATTHIEUEURS est\n"
+	.string "Où le cœur des DRESSEURS est\n"
 	.string "mis à rude épreuve. Je vous\p"
 	.string "souhaite la bienvenue au BATTLE\n"
 	.string "PALACE. J'accepte les défis des\p"
