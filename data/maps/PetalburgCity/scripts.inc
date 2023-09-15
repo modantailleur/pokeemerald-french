@@ -707,7 +707,7 @@ PetalburgCity_EventScript_GymBoy::
 PetalburgCity_Text_WhereIsWally:
 	.string "Où est passé notre TIMMY ? Nous\n"
 	.string "devons partir très bientôt pour\p"
-	.string "VERGUIDOTURF TOWN…$"
+	.string "VERGAZON…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
 	.string "Salut ! Etes-vous peut-être… Un\n"

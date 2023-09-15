@@ -1164,7 +1164,7 @@ PetalburgCity_Gym_Text_DadOhYoureWallyRight:
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
 	.string "TIMMY : Je vais aller vivre avec\n"
-	.string "mes proches à VERGUIDOTURF TOWN. Je\p"
+	.string "mes proches à VERGAZON. Je\p"
 	.string "pensais que je me sentirais seul,\n"
 	.string "alors je voulais emmener un POKéMON\p"
 	.string "avec moi. Mais je n'ai jamais\n"

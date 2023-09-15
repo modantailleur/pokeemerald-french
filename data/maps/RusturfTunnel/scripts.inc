@@ -474,7 +474,7 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "continuer à creuser ? Le substrat\p"
 	.string "rocheux est-il trop dur ? Ma\n"
 	.string "bien-aimée m'attend dans\p"
-	.string "VERGUIDOTURF TOWN juste au-delà\n"
+	.string "VERGAZON juste au-delà\n"
 	.string "d'ici… Si RUSTBORO et VERGUIDOTURF\p"
 	.string "étaient reliés par ce tunnel, je\n"
 	.string "pourrais lui rendre visite tous les\p"

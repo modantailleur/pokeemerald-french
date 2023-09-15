@@ -112,7 +112,7 @@ VerdanturfTown_Text_EasyToGetToRustboroNow:
 	.string "maintenant.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERGUIDOTURF TOWN “ Les hautes\n"
+	.string "VERGAZON “ Les hautes\n"
 	.string "terres balayées par le vent avec le\p"
 	.string "doux parfum de l'herbe. ”$"
 
