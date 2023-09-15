@@ -59,7 +59,7 @@ VictoryRoad_B2F_Text_OwenDefeat:
 VictoryRoad_B2F_Text_OwenPostBattle:
 	.string "D'après les rumeurs que j'ai\n"
 	.string "entendues, ce petit enfant coriace\p"
-	.string "vient de PGUIDOALBURG CITY.$"
+	.string "vient de CLEMENTI-VILLE.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
 	.string "Tu dois être un peu fatigué.$"

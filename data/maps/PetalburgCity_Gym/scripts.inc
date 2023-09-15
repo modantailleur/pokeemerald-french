@@ -1450,7 +1450,7 @@ PetalburgCity_Gym_Text_BerkePostBattle:
 PetalburgCity_Gym_Text_BerkePostBadge:
 	.string "Depuis que ton père est devenu\n"
 	.string "LEADER, les DRESSEURS de\p"
-	.string "PGUIDOALBURG CITY sont devenus\n"
+	.string "CLEMENTI-VILLE sont devenus\n"
 	.string "beaucoup plus coriaces.$"
 
 PetalburgCity_Gym_Text_MaryIntro:

@@ -313,7 +313,7 @@ RustboroCity_PokemonSchool_Text_StudentsNotes:
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "Bonjour? Ne nous sommes-nous pas\n"
 	.string "déjà rencontrés ? Je repense à\p"
-	.string "PGUIDOALBURG CITY. Laisse moi me\n"
+	.string "CLEMENTI-VILLE. Laisse moi me\n"
 	.string "présenter. Je m'appelle SCOTT. J'ai\p"
 	.string "voyagé partout à la recherche de\n"
 	.string "DRESSEURS exceptionnels. Plus\p"
@@ -345,7 +345,7 @@ RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
 	.string "Bonjour? Ne nous sommes-nous pas\n"
 	.string "déjà rencontrés ? Je repense à\p"
-	.string "PGUIDOALBURG CITY. Laisse moi me\n"
+	.string "CLEMENTI-VILLE. Laisse moi me\n"
 	.string "présenter. Je m'appelle SCOTT. J'ai\p"
 	.string "voyagé partout à la recherche de\n"
 	.string "DRESSEURS exceptionnels. Plus\p"

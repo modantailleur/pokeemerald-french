@@ -719,7 +719,7 @@ PetalburgCity_Text_AreYouRookieTrainer:
 	.string "GYM se trouve dans la ville.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "Voir? Ici PGUIDOALBURG CITY GYM.$"
+	.string "Voir? Ici CLEMENTI-VILLE GYM.$"
 
 PetalburgCity_Text_ThisIsGymSign:
 	.string "C'est le signe du GYM.\n"
@@ -743,11 +743,11 @@ PetalburgCity_Text_FullPartyExplanation:
 
 PetalburgCity_Text_GymSign:
 	.string "LEADER DU POKéMON GYM DE\n"
-	.string "PGUIDOALBURG CITY : NORMAN “ Un\p"
+	.string "CLEMENTI-VILLE : NORMAN “ Un\p"
 	.string "homme en quête de pouvoir ! ”$"
 
 PetalburgCity_Text_CitySign:
-	.string "PGUIDOALBURG CITY “ Là où les gens\n"
+	.string "CLEMENTI-VILLE “ Là où les gens\n"
 	.string "se mêlent à la nature. ”$"
 
 PetalburgCity_Text_WallyHouseSign:
