@@ -36,7 +36,8 @@ for subdir, dirs, files in os.walk('./src/data/easy_chat/'):
 
             if len(easy_item_split) > 1:
                 for i in range(1, len(easy_item_split), 2):  # Loop through even numbers from 0 to 8
-                    easy_item_split[i] = '"' + translate_to_french(easy_item_split[i]).upper() + '"'
+                    if easy_item_split[i] != '{':
+                        easy_item_split[i] = '"' + translate_to_french(easy_item_split[i]).upper() + '"'
                 to_save = "".join(easy_item_split)
                 with open(f, 'w', encoding='utf-8') as file:
                     file.write(to_save)  
