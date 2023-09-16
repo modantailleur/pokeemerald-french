@@ -5,7 +5,7 @@ from unidecode import unidecode
 
 all_files = False
 translate_path = './translate_folder/'
-file_to_translate = 'trainers.inc'
+file_to_translate = 'berries.inc'
 
 translator = Translator()
 
