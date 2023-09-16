@@ -17,67 +17,26 @@ def translate_to_french(text):
 
 for subdir, dirs, files in os.walk('./src/data/easy_chat/'):
     for file_n in files:
-        f = os.path.join(subdir, file_n)
+        if file_n not in ["easy_chat_groups.h", "easy_chat_words_by_letter.h", "easy_chat_group_move_1.h", "easy_chat_group_move_2.h", "easy_chat_group_pokemon.h", \
+                          "easy_chat_group_pokemon2.h", "easy_chat_group_trainer.h"]:
+            f = os.path.join(subdir, file_n)
 
-        base_name_without_extension = os.path.splitext(file_n)[0]
-        eng_file_name = base_name_without_extension + '_eng.inc'
-        eng_file_path = os.path.join(subdir, eng_file_name)
-        
-        # Read the contents of item.h and items.h
-        with open(f, 'r') as easy_file:
-            easy_item = easy_file.read()
-        # Use re.findall to split the content by the character '"' while preserving the '"'
-        easy_item_split = re.findall(r'(?:[^"]*"[^"]*")|(?:[^"]*)', content)
-
-        # Initialize an empty dictionary to store the item mappings
-        item_dict = {}
-
-        pattern = r'\[([^]]+)\]\s*=\s*{([^}]+)\.name\s*=\s*_\("([^"]+)"'
-
-        # Iterate through the split parts and extract item mappings
-        for item_part in easy_item_split:
-            match = re.search(pattern, item_part)
-            if match:
-                item_id = match.group(1)
-                item_name = match.group(3)
-                item_dict[item_id] = "\"" + item_name + "\""
-
-        cpt = 0
-
-        new_items = [eng_items_split[0]]
-
-        for item in eng_items_split[1:]:
-
-            # Split by square brackets [] while keeping the brackets
-            square_bracket_splits = re.split(r'(\[|\])', item)
-
-            try:
-                fr_item_correspondance = item_dict[square_bracket_splits[2]]
-            except KeyError:
-                fr_item_correspondance = None
+            base_name_without_extension = os.path.splitext(file_n)[0]
+            eng_file_name = base_name_without_extension + '_eng.inc'
+            eng_file_path = os.path.join(subdir, eng_file_name)
             
-            rest_of_text = square_bracket_splits[4]
+            # Read the contents of item.h and items.h
+            with open(f, 'r') as easy_file:
+                easy_item = easy_file.read()
+            # Use re.findall to split the content by the character '"' while preserving the '"'
+            # easy_item_split = re.findall(r'(?:[^"]*"[^"]*")|(?:[^"]*)', easy_item)
+            # easy_item_split = [s for s in easy_item_split if s.strip() != '']
+            easy_item_split = easy_item.split('"')
 
-            # Split by parentheses () while keeping the parentheses
-            parentheses_splits = re.split(r'(\(|\))', rest_of_text)
 
-            if fr_item_correspondance is not None:
-                parentheses_splits[2] = fr_item_correspondance
-            else:
-                print(parentheses_splits[2][1:3])
-                if parentheses_splits[2][1:3] == 'TM':
-                    parentheses_splits[2] = parentheses_splits[2].replace('TM', 'CT')
-                if parentheses_splits[2][1:3] == 'HM':
-                    parentheses_splits[2] = parentheses_splits[2].replace('HM', 'CS')
-
-            new_rest_of_text = "".join(parentheses_splits)
-            square_bracket_splits[4] = new_rest_of_text
-            new_square_bracket_splits = "".join(square_bracket_splits)
-
-            new_items.append(new_square_bracket_splits)
-
-        new_items = "".join(new_items)
-
-        #replace english text by french text
-        with open('translate_folder/items.h', 'w', encoding='utf-8') as file:
-            file.write(new_items)
+            if len(easy_item_split) > 1:
+                for i in range(1, len(easy_item_split), 2):  # Loop through even numbers from 0 to 8
+                    easy_item_split[i] = '"' + translate_to_french(easy_item_split[i]).upper() + '"'
+                to_save = "".join(easy_item_split)
+                with open(f, 'w', encoding='utf-8') as file:
+                    file.write(to_save)  
