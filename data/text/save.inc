@@ -8,7 +8,7 @@ gText_AlreadySavedFile::
 
 gText_SavingDontTurnOff::
 	.string "SAUVEGARDE EN COURS…\n"
-	.string "N'ETEIGNEZ PAS LA CONSOLE.$"
+	.string "N’ETEIGNEZ PAS LA CONSOLE.$"
 
 gText_PlayerSavedGame::
 	.string "{PLAYER} a sauvegardé la partie.$"
@@ -19,10 +19,9 @@ gText_DifferentSaveFile::
 	.string "Voulez-vous la remplacer?$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "Erreur de sauvegarde.\p"
+	.string "Changer la mémoire de sauvegarde.$"
 
 gText_SavingDontTurnOffPower::
 	.string "SAUVEGARDE EN COURS…\n"
-	.string "N'ETEIGNEZ PAS LA CONSOLE.$"
+	.string "NE PAS ETEINDRE.$"
