@@ -109,7 +109,7 @@ Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
 
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop:
 	.string "N'oubliez pas de visiter le magasin\n"
-	.string "de fleurs PRGUIDOTY PGUIDOAL près\p"
+	.string "de fleurs JOLIE FLEUR près\p"
 	.string "de RUSTBORO. Laissez les fleurs\n"
 	.string "remplir le monde !$"
 
@@ -147,7 +147,7 @@ Route123_BerryMastersHouse_Text_Ah:
 
 Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
 	.string "Bonjour! Voici le fleuriste\n"
-	.string "PRGUIDOTY PGUIDOAL. Répandez des\p"
+	.string "JOLIE FLEUR. Répandez des\p"
 	.string "fleurs partout dans le monde !$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries:
