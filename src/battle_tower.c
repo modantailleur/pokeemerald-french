@@ -1573,7 +1573,9 @@ void GetFrontierTrainerName(u8 *dst, u16 trainerId)
     dst[i] = EOS;
 }
 
-static bool8 IsFrontierTrainerFemale(u16 trainerId)
+//MT: non statif after pokeemerald multi
+bool8 IsFrontierTrainerFemale(u16 trainerId)
+//static bool8 IsFrontierTrainerFemale(u16 trainerId)
 {
     u32 i;
     u8 facilityClass;

@@ -3018,7 +3018,10 @@ extern const u8 gText_Summary2[];
 extern const u8 gText_PkmnForSwap[];
 extern const u8 gText_SamePkmnInPartyAlready[];
 extern const u8 gText_Cancel3[];
-
+//MT: added for pokeemerald multi
+extern const u8 gText_Eleve[];
+extern const u8 gText_Dresseur[];
+extern const u8 gText_Champion[];
 // Naming Screen
 extern const u8 gText_MoveOkBack[];
 extern const u8 gText_YourName[];

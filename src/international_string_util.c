@@ -7,6 +7,10 @@
 #include "strings.h"
 #include "text.h"
 #include "window.h"
+//MT: added after pokeemerald multi
+#include "constants/trainers.h"
+#include "data.h"
+//
 
 extern const struct PokedexEntry gPokedexEntries[];
 
@@ -233,4 +237,28 @@ void FillWindowTilesByRow(int windowId, int columnStart, int rowStart, int numFi
             windowTileData += windowRowSize;
         }
     }
+}
+
+//MT: added after pokeemerald multi
+const u8 gText_LevyTatia[] = _("LEVY&TATIA");
+const u8 *GetTrainerClassNameGenderSpecific(s32 trainerClassId, u32 trainerGender, const u8 *trainerName)
+{
+    switch (trainerClassId)
+    {
+    case TRAINER_CLASS_SCHOOL_KID:
+        if (trainerGender != 0)
+            return gText_Eleve; // ELEVE
+        return gTrainerClassNames[trainerClassId];
+    case TRAINER_CLASS_RIVAL:
+    case TRAINER_CLASS_RS_PROTAG:
+        if (trainerGender != 0)
+            return gText_Dresseur; // DRESSEUR
+        break;
+    case TRAINER_CLASS_LEADER:
+        if (trainerName != NULL && StringCompare(trainerName, gText_LevyTatia) == 0)
+            return gText_Champion; // CHAMPION
+        break;
+    }
+    trainerName = gTrainerClassNames[trainerClassId];
+    return trainerName;
 }
