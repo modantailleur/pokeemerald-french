@@ -39,7 +39,7 @@ for item in eng_items_split[1:]:
     square_bracket_splits = re.split(r'(\[|\])', item)
 
     try:
-        fr_item_correspondance = item_dict[square_bracket_splits[2]]
+        fr_item_correspondance = item_dict[square_bracket_splits[2]].upper()
     except KeyError:
         fr_item_correspondance = None
     
