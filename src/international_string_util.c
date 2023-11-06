@@ -92,9 +92,8 @@ int Intl_GetListMenuWidth(const struct ListMenuTemplate *listMenu)
 
 void CopyMonCategoryText(int dexNum, u8 *dest)
 {
+    //MT: modified after pokeemerald-multi
     u8 *str = StringCopy(dest, gPokedexEntries[dexNum].categoryName);
-    *str = CHAR_SPACE;
-    StringCopy(str + 1, gText_Pokemon);
 }
 
 u8 *GetStringClearToWidth(u8 *dest, int fontId, const u8 *str, int totalStringWidth)
